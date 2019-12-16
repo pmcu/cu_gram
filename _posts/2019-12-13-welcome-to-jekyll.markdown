@@ -4,7 +4,7 @@ title:  "Fáilte chuig Chró an Chon!"
 date:   2019-12-13 18:07:11 +0000
 categories: jekyll update
 ---
-![tadhg](/img/tadhg.jpg)
+![tadhg](img/tadhg.jpg)
 
 
 ## Sean agus Úr
