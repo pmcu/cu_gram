@@ -7,7 +7,8 @@ date:   2019-12-13 18:07:11 +0000
 ---
 ![tadhg](tadhg.jpg)
 
-## Sean agus Úr
+# Sean agus Úr
+## An Chéad Chognú
 le Tadhg - Cú na Gramadaí
 
 Ní hannamh gur cuidiú súil úr a chaitheamh ar
