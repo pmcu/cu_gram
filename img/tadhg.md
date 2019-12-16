@@ -1,4 +1,4 @@
-## Dog
+## Tadhg
 
 ![dog](/tadhg.jpg)
 
