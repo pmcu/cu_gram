@@ -1,5 +1,5 @@
 ## Tadhg
 
-![dog](/assets/img/tadhg.jpg)
+![dog](tadhg.jpg)
 
 Seo Tadhg is madadh an-tábhachtach é.
