@@ -3,7 +3,7 @@ layout: post
 title:  "Fáilte chuig Chró an Chon!"
 date:   2019-12-13 18:07:11 +0000
 categories: jekyll update
-image: /assets/img/tadhg.jpg
+
 ---
 
 
