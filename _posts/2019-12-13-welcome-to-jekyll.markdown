@@ -5,7 +5,7 @@ date:   2019-12-13 18:07:11 +0000
 categories: jekyll update
 
 ---
-![tadhg](https://github.com/pmcu/cu_gram/blob/gh-pages/assets/img/tadhg.jpg)
+![tadhg](/assets/img/tadhg.jpg)
 
 ## Sean agus Úr
 
