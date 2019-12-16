@@ -28,9 +28,9 @@ agus míbhuntaistí féin ag roinnt le gach modh. Agus amanntaí, tigtear ar
 léirteain úra nuair a chuirtear seanmhodh i leataobh agus dul i gceann 
 gnoithe ar dhóigh éigin eile.
 
-An chnámh atá feicthe go minic, is minic a éiríonn a chuma sean sa tsúil, rud a fhágann an 
+An chnámh atá feicthe go minic, is minic a éiríonn a cuma sean sa tsúil, rud a fhágann an 
 tsúil falsa, agus bogásach, b'fhéidir, faoi mar ba amhlaidh nach dtiocfadh a thuilleadh 
-a fhoghlaim nó a thuigbheáil faoin rud. Is deas nuair a thugtar tús úr le hobair na tuigbheála, 
+a fhoghlaim nó a thuigbheáil fuithi. Is deas nuair a thugtar tús úr le hobair na tuigbheála, 
 agus go dtarlaíonn ar an chosán a thigeas as an tús úr, gá a bheith le struchtúir úra smaoinimh 
 agus coincheapaithe. Rud inmhianta turas ar a leithéid sin de chosán a bheith ar fáil do 
 léitheoir na leathanach seo.
