@@ -5,7 +5,7 @@ date:   2019-12-13 18:07:11 +0000
 categories: jekyll update
 ---
 
-<img src="/assets/img/tadhg.jpg" alt="tadhg">
+<img src="/img/tadhg.jpg" alt="tadhg">
 
 
 ## Sean agus Úr
