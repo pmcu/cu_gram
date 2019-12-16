@@ -3,6 +3,8 @@ layout: page
 title: Eolas
 permalink: /about/
 ---
+![tadhg](/assets/img/tadhg.jpg)
+
 Cúrsaí gramadaí á bplé ar dhóigh úr atá
 i gceist ar na leathanaigh seo.
 
