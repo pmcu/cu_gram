@@ -11,22 +11,13 @@ author: pmcu
 
   </head>
   <body>
-<nav>
-  <a href="/cu_gram/">Baile</a>
-  <a href="/cu_gram/about.html">Eolas</a>
-</nav>
 
 <img src="assets/img/tadhg.jpg">
 
-    <p>Údar: {{page.author}} </p>
-<!-- {% for post in site.posts %}
-<p>{{ post.title }} </p>
-{% endfor %} -->
 <h4>Réchúrsa Gramadaí</h4>
 
   {% for post in site.rchursa %}
     <li><a href="{{ post.url }}">{{post.title}}</a></li>
-
     {% endfor %}
   </body>
 </html>
