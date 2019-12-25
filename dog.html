@@ -22,20 +22,11 @@ author: pmcu
 <!-- {% for post in site.posts %}
 <p>{{ post.title }} </p>
 {% endfor %} -->
-<h4>Ceangal</h4>
+<h4>Réchúrsa Gramadaí</h4>
 
-  {% for post in site.posts %}
+  {% for post in site.rchursa %}
     <li><a href="{{ post.url }}">{{post.title}}</a></li>
+
     {% endfor %}
-    <br><hr><br>
-    <h3>Madaí Eile</h3>
-{% for dog in site.data.dogs %}
-<h3>{{ dog.name}}</h3> {{dog.seort}}<br>{{dog.deoch}}<br><br>
-{% endfor %}
-<br><hr><br>
-<h3>Léaráidí</h3>
-{%for file in site.static_files %}
-{{file.basename}}<br>
-{% endfor %}
   </body>
 </html>
