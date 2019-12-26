@@ -26,4 +26,5 @@ amháin sa dá chás seo:
 - An bhfuil? Nach bhfuil. Ní fhuil - Níl.
 - Raibh an fhoirm spleách do bhí:
 - An raibh? Nach raibh? Ní raibh.
+
 -----------------
