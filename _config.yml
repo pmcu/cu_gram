@@ -21,9 +21,13 @@
 title: Cú na Gramadaí
 email: cugram@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Seo suíomh ar a mbeidh gnéithe suimiúl den ghramadach á bpé. Déanfar
-  iarracht súil úr a oibriú ar an ghramadach, ach san am chéanna cuidiú
-  a fháil don tsúil úr ó na seanfhoinsí eolais is fearr.
+  Seo suíomh ar a mbeidh gnéithe suimiúla den ghramadach á
+  bpé. Táthar ag súil gur earra úsáideach a bheas ann do
+  lucht foghlama agus do na cúnna gramadaí uilig - iadsin ar
+  ábhar mór sásaimh daoibh an tseilg ghramadaí.  Déanfar
+  iarracht súil úr a oibriú ar an ghramadach, ach san am
+  chéanna cuidiú a fháil don tsúil úr ó na seanfhoinsí
+  eolais is fearr.
 baseurl: "cu_gram" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: curb
