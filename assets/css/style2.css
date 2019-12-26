@@ -1,9 +1,10 @@
 ul {
-display: inline-block;
 list-style-type:none;
 }
-
-ul li {
-margin-left: auto;
-margin-right: auto;
+nav {
+display: inline-block;
 }
+nav li {
+	float: left;
+}
+
