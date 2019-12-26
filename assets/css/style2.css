@@ -7,4 +7,9 @@ display: inline-block;
 nav li {
 	float: left;
 }
+a {
+	text-align:center;
+	text-decoration:none;
+	padding-right:30px;
+}
 
