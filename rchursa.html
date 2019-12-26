@@ -5,13 +5,13 @@ layout: page
 <h1>Réchúrsa</h1>
 
 <ul>
-	{% for leath in site.pages %}
-	{% if page.type == 'rchursa' %}
+	{% for post in site.posts %}
+
 	<li>
 		{{leath.title}}
 	</li>
 
-	{% endif %}
+
 	{% endfor %}
 
 </ul>
