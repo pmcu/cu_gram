@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title: "Cú Gramadaí"
+title: "Réchúrsa Gramadaí"
 type: gram
 ---
 
-# Cú Gramadaí
+## Cur chuige an Réchúrsa
