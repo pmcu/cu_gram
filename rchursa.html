@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+<h1>Réchúrsa</h1>
+
+<ul>
+	{% for leath in site.pages %}
+	{% if page.type == '_rchursa' %}
+	<li>
+		{{leath.title}}
+	</li>
+
+	{% endif%}
+	{% endfor %}
+
+</ul>
