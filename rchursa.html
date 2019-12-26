@@ -6,12 +6,11 @@ layout: page
 
 <ul>
 	{% for post in site.pages %}
-
+	{% if post.type == 'gram' %}
 	<li>
 		<a href="{{ post.url | relative_url }}"> {{post.title}} </a>
 	</li>
-
-
+	{% endif %}
 	{% endfor %}
 
 </ul>

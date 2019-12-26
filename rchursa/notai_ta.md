@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Réchúrsa -Tá - Nótaí"
+type: gram
 ---
 
 ### Réchúrsa Gramadaí
