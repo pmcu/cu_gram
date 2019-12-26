@@ -15,8 +15,8 @@ Baineann an plé seo le háit nó le hionad. Feidhm úsáideach teangan
 ionad ruda a léiriú sa tsaol ábhartha de réir cosúlachta.
 
 ### Samplaí
-Tá éan ar chrann = *Seasann éan ar chrann*.
-Tá Pól faoi hata = *Seasann Pól faoi hata*.
-Tá cat ag doras = *Seasann cat ag doras(lena thaobh)*
+- Tá éan ar chrann = *Seasann éan ar chrann*.
+- Tá Pól faoi hata = *Seasann Pól faoi hata*.
+- Tá cat ag doras = *Seasann cat ag doras(lena thaobh)*
 
 
