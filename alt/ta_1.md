@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Tá - Úsáid 1 - Ionad"
+type: alt
 ---
 # Tá - Údáid 1 - áit a léiriú
 ![pic](../assets/img/tadhg.jpg)

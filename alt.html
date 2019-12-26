@@ -2,11 +2,11 @@
 layout: page
 ---
 
-<h1>Réchúrsa</h1>
+<h1>Ailt</h1>
 
 <ul>
 	{% for post in site.pages %}
-	{% if post.type == 'gram' %}
+	{% if post.type == 'alt' %}
 	<li>
 		<a href="{{ post.url | relative_url }}"> {{post.title}} </a>
 	</li>
