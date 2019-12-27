@@ -5,6 +5,7 @@ cat: taisp
 type: gram
 ---
 
+![pic](../assets/img/tadhg.jpg)
 ### Réchúrsa Gramadaí
 #### Leathanach 27
 
