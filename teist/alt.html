@@ -1,0 +1,19 @@
+---
+layout: page
+permalink: /teist/
+---
+<head>
+<link rel="stylesheet" type="text/css" href="assets/css/style2.css">
+</head>
+<h1>Teist</h1>
+<p>Teist lena fháil amach an oibreodh sé fríd na naisc.</p>
+<ul>
+	{% for post in site.pages %}
+	{% if post.type == 'alt' %}
+	<li>
+		<a href="{{ post.url | relative_url }}"> {{post.title}} </a>
+	</li>
+	{% endif %}
+	{% endfor %}
+
+</ul>
