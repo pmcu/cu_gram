@@ -5,6 +5,5 @@ cat: taisp
 type: gram
 ---
 
-![pic](../../assets/img/tadhg.jpg)
 
 Is binn hata ina thost
