@@ -3,7 +3,6 @@ layout: page
 title: Eolas
 permalink: /about/
 ---
-![tadhg](/assets/img/tadhg.jpg)
 
 Cúrsaí gramadaí de réir Thaidhg féin a phléifear ar an tsuíomh
 seo. Ba mhaith leis modh oibre úr a úsáid, ach san am chéanna
