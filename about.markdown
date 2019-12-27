@@ -4,6 +4,8 @@ title: Eolas
 permalink: /about/
 ---
 
+![pic](assets/img/tadhg.jpg)
+
 Cúrsaí gramadaí de réir Thaidhg féin a phléifear ar an tsuíomh
 seo. Ba mhaith leis modh oibre úr a úsáid, ach san am chéanna
 a bheith ag tarraingt as na seantoibreacha is fearr údarás.
