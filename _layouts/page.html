@@ -16,3 +16,10 @@ layout: default
   </div>
 
 </article>
+
+<hr>
+<h4>Na Naisc</h4>
+{% for ceang site.data.nasc %}
+{{ ceang.nasc}}, {{ ceang.seort}}, {{ ceang.eolas}} <br>
+{% endfor  %}
+

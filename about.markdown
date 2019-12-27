@@ -13,9 +13,3 @@ a bheith ag tarraingt as na seantoibreacha is fearr údarás.
 > fonn ort gach rud a fhágáil i do dhiaidh.
 > Tadhg - Cú na Gramadaí
 
-<hr>
-<h4>Na Naisc</h4>
-{% for ceang site.data.nasc %}
-{{ ceang.nasc}}, {{ ceang.seort}}, {{ ceang.eolas}} <br>
-{% endfor  %}
-
