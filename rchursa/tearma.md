@@ -1,6 +1,5 @@
-
 ---
-layout: "sonrai"
+layout: sonrai
 title: "Téarma Gramadaí"
 cat: taisp
 type: gram
