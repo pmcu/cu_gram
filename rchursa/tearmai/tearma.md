@@ -5,5 +5,6 @@ cat: taisp
 type: gram
 ---
 
+![pic](../../assets/img/tadhg.jpg)
 
-## Téarma de réir Réchúrsa
+Is binn hata ina thost
