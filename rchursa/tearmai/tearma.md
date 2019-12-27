@@ -5,6 +5,6 @@ cat: taisp
 type: gram
 ---
 
-<img src="../assets/img/tadhg.jpg" alt="tadhg">
+<img src="../../assets/img/tadhg.jpg" alt="tadhg">
 
 ## Téarma de réir Réchúrsa
