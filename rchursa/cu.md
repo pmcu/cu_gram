@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Réchúrsa Gramadaí"
+cat: taisp
 type: gram
 ---
 

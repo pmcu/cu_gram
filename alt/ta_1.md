@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Tá - Úsáid 1 - Ionad"
+cat: taisp
 type: alt
 ---
 <br>

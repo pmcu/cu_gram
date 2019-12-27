@@ -9,7 +9,7 @@ permalink: /teist/
 <p>Teist lena fháil amach an oibreodh sé fríd na naisc.</p>
 <ul>
 	{% for post in site.pages %}
-	{% if post.type == 'alt' %}
+	{% if post.cat == 'taisp' %}
 	<li>
 		<a href="{{ post.url | relative_url }}"> {{post.title}} </a>
 	</li>

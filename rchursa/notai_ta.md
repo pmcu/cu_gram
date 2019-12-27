@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Réchúrsa -Tá - Nótaí"
+cat: taisp
 type: gram
 ---
 
