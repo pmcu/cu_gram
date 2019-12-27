@@ -9,3 +9,16 @@
 - ainm: "aidiacht"
   eolas: "Rann Cainte a chuitear le hainmfhocal chun cáilíocht áirithe a bhaineann leis an duine nó leis an rud atá i gceist a léiriú."
   samplai: "ard, beag, milis"
+
+- ainm: "forainm"
+  eolas: "Rann Cainte a chuirtear in áit ainmfhocail. Déantar forainm tagairt do dhuine
+  nó do rud gan an duine nó an rud a ainmniú"
+  samplai: "mé, cé, seo, cad"
+
+- ainm: "réamhfhocal"
+  eolas: "Rann cainte a thaispeánann an bhaint atá ag rud le rud eile atá luaite san abairt"
+  samplai: "ag, le, roimh"
+
+- ainm: "dobhriathar"
+  eolas: "Rann Cainte a chuireann teora le brí briathair, aidiachta, dobhriathair eile."
+  samplai: "go tapaidh, go mall, go leor"
