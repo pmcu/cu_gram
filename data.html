@@ -1,0 +1,17 @@
+---
+layout: post
+permalink: /sonrai/
+---
+<head>
+<link rel="stylesheet" type="text/css" href="assets/css/style2.css">
+</head>
+<h1>Ailt</h1>
+
+<ul>
+{% for sonra in site.data.nasc %}
+ {% if sonra.nasc == 'Eolas' %}
+   {{ sonra.nasc }}, {{ sonra.eolas}}
+ {% endif %}
+{% endfor %}
+
+</ul>
