@@ -8,8 +8,7 @@ type: alt
 <hr>
 <br>
 
-<img src="{{site.baseurl}}/assets/img/tadhg.jpg">
-
+![](../../assets/img/tadhg.jpg)
 ## *Tá* agus *Seas* 2
 Má thuigtear ciall ghinearálta a bheith leis an choincheap,
 *Seas*, is féidir greim maith tuigbheála a fháil ar an dóigh
