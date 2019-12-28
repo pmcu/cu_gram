@@ -1,23 +1,40 @@
 ---
 layout: "post"
-title: "Tá - Úsáid 1 - Ionad"
+title: "Tá - Úsáid 2 - dath"
 cat: taisp
 type: alt
 ---
 <br>
 <hr>
 <br>
-![pic](../assets/img/tadhg.jpg)
-## *Tá* agus *Seas*
-Dúradh go raibh baint stairiúil ag *tá* leis an fhocal
-sto sa Laidin, focal a chiallaíonn *seasaim*. Más fíor sin
-tig sé go breá leis an chéad úsáid de *tá* a phléifear anseo.
-Baineann an plé seo le háit nó le hionad. Feidhm úsáideach teangan
-ionad ruda a léiriú sa tsaol ábhartha de réir cosúlachta.
+
+<img src="{{site.baseurl}}/assets/img/tadhg.jpg">
+
+## *Tá* agus *Seas* 2
+Má thuigtear ciall ghinearálta a bheith leis an choincheap,
+*Seas*, is féidir greim maith tuigbheála a fháil ar an dóigh
+a n-úsáidtear tá le haidiachtaí. Seo an aonad tuigbheála atá
+i gceist agam: tá sé buí - *seasann sé buí* - fanann sé sa
+dóigh go mbíonn an dath sin air.
+
+### Cáilíocht
+Úsáidtear tá le cáilíocht a cheangal de rud. Is minic is
+ceangal sealadach é. Seasann an rud sa dóigh go bhfuil an
+cháilíocht a luaitear ceangailte de *i láthair na huaire*.
+Is intuigthe nach gá go bhfanfadh sé mar sin.
 
 ### Samplaí
-- Tá éan ar chrann = *Seasann éan ar chrann*.
-- Tá Pól faoi hata = *Seasann Pól faoi hata*.
-- Tá cat ag doras = *Seasann cat ag doras(lena thaobh)*
+- Tá an duilleog sin buí = *Seasann an t-éan buí*.
+- Tá Pól óg = *Seasann Pól i staid óg*.
+- Tá an cat tuirseach. = *Seasann an cat i staid thuirseach.*
+
+### Coimheád
+Tugtar faoi deara nach gnáthúsáid a mbaintear as *seas* í seo.
+Níl i gceist agam ach feidhm a bhaint as an choincheap
+choincréiteach *seas* mar mheafar i gcás cáilíocht a
+cheangal de rud, cáilíocht a chur le hainmfhocal.
+
+
+
 
 
