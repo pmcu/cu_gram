@@ -3,7 +3,7 @@ layout: "post"
 title: "Tá - Úsáid 2 - dath"
 cat: taisp
 type: alt
-permalink:/ta-2/
+permalink: /ta-2/
 ---
 <br>
 <hr>
@@ -24,7 +24,7 @@ cháilíocht a luaitear ceangailte de *i láthair na huaire*.
 Is intuigthe nach gá go bhfanfadh sé mar sin.
 
 ### Samplaí
-- Tá an duilleog sin buí = *Seasann an t-éan buí*.
+- Tá an duilleog sin buí = *Seasann an duilleog sin buí*.
 - Tá Pól óg = *Seasann Pól i staid óg*.
 - Tá an cat tuirseach. = *Seasann an cat i staid thuirseach.*
 
