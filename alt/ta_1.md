@@ -3,12 +3,13 @@ layout: "post"
 title: "Tá - Úsáid 2 - dath"
 cat: taisp
 type: alt
+permalink:/ta-2/
 ---
 <br>
 <hr>
 <br>
 
-![](../../assets/img/tadhg.jpg)
+![pic](../assets/img/tadhg.jpg)
 ## *Tá* agus *Seas* 2
 Má thuigtear ciall ghinearálta a bheith leis an choincheap,
 *Seas*, is féidir greim maith tuigbheála a fháil ar an dóigh
