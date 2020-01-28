@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <head>
-<html lang="{{ page.lang | default: site.lang | default: "ga" }}">
-	<link rel="stylesheet" type="text/css" href = "../assets/css/style2.css">
-  {%- include head.html -%}
+<link rel="stylesheet" type="text/css" href = "../assets/css/style2.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  $("#hide").click(function(){
-    $("p").hide();
-  });
-  $("#show").click(function(){
-    $("p").show();
-  });
-});
-</script>
 
+<html lang="{{ page.lang | default: site.lang | default: "ga" }}">
+  {%- include head.html -%}
+<script>
+ 4 $(document).ready(function(){
+ 3   $("p").click(function(){
+ 2     $(this).hide();
+ 1   });
+   });
+</script>
 </head>
   <body>
 
