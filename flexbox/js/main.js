@@ -26,7 +26,7 @@ var bealach = `
 <h2>Na Seomraí</h2>
 <p>
 Má bhíonn seomra ann do
-gach earnáil atá a phlé, beifear
+gach earnáil atá a plé, beifear
 in ann cnag a bhualadh
 ar dhoras an tseomra. Seo thíos na doirse
 i láthair na huaire. Cuirfear leo le himeacht
