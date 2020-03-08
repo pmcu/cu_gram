@@ -45,25 +45,33 @@ ann ar leathanach amháin in am ar bith.
 //-------------
 //ábhar don 2ú 'side bar'
 var taobh = `
-<h2>Nótaí</h2>
-<h3>Údarás</h3>
-<ul>
-	<li>Progress in Irish</li>
-	<li>Buntús Cainte</li>
-	<li>Réchúrsa Gramadaí</li>
-	<li>Graiméar na mBráithre Críostaí</li>
-	<li>New Irish Grammar</li>
-	<li>An Caighdeán Oifigiúil</li>
-	<li>Cora Cainte as Tír Chonaill</li>
-</ul>
-<p>Beifear ann nach n-éisteodh le
-caint ghramadaí an chon.
-Níor mhiste, dá thairbhe, tagairt thall
-agus abhus do chonchró is mó údarás.
+<h2>Tadhg</h2>
+<p>
+Is mise Tadhg, cú de na cúnna gramadaí.
+Ní cú acadúil mé, faoina hata chearnógach; ach de bharr mo chuid seilge
+fada, i ngleanta an léinn Ghaeilge, d'éirigh suim sa ghramadach
+ionam, agus chaith mé an-chuid ama ag smúrthacht agus ag tógáil
+eolais faoi chomhréir agus faoi fhoirmeacha focal, gur éirigh
+mé seort eolach go leor faoi dheireadh, ar na cúrsaí údaí, de réir mo bharúla féin.
+Madadh flaithiúil go maith mé, rud a chuir i mo cheann nár mhsite
+cuid dá bhfuil bailithe ann ó thaobh na gramadaí a roinnt leat. Más
+amaideach bómánta leat a mbreacaim, tá cead agat cuidiú con eile a lorg, ar ndóighe.
 </p>
 
 `
+var nota =`
 
+<h2>Nótaí breise</h2>
+<h3>Údarás - Príomhfhoinsí</h3>
+<ul>
+	<li>Réchúrsa Gramadaí</li>
+	<li>Graiméar na mBráithre Críostaí</li>
+	<li>New Irish Grammar</li>
+	<li>Gramadach na Gaeilge</li>
+</ul>
+
+
+`
 //  *** cód don leathanach HTML
 document.getElementById('lucht-div').innerHTML=`
  ${lucht}
@@ -76,3 +84,6 @@ document.getElementById('taobh-div').innerHTML=`
  ${taobh}
 `
 
+document.getElementById('nota-div').innerHTML=`
+ ${nota}
+`

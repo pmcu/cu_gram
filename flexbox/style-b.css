@@ -3,21 +3,12 @@ html, body {
   margin: 0;
 }
 input {
-  font-size: 16px;
+  font-size: 14px;
   font-family: Helvetica, sans-serif;
 }
-h1 {
-	text-align:center;
-}
-ul {
-list-style-type: none;
-}
 
-nav{
-display: flex;
-}
 body {
-  background-color: white;
+  background-color: #BBB;
   font-family: Helvetica, sans-serif;
   padding-bottom: 100px;
 }
@@ -26,17 +17,37 @@ float:right;
 }
 a {
 text-decoration:none;
-font-size:26px;
 }
 
 h2, h3 {
   margin: 0 0 .75em 0;
 }
 
+/* first example */
+.container {
+  max-width: 750px;
+  margin: 20px auto 0 auto;
+  padding: 30px;
+  background-color: #FFF;
+}
+
+.form-row {
+  padding: 10px 0;
+  display: flex;
+}
+
+.form-row label {
+  padding-right: 10px;
+}
+
+.form-row input {
+  flex: 1;
+}
+
 /* second example */
 .column-layout {
   max-width: 1300px;
-  background-color: lightyellow;
+  background-color: #FFF;
   margin: 40px auto 0 auto;
   line-height: 1.65;
   padding: 20px 50px;
@@ -63,6 +74,30 @@ h2, h3 {
   order: 3;
 }
 
+/* third example */
+.call-outs-container {
+  max-width: 1400px;
+margin: 40px auto 0 auto;
+}
+
+
+.call-out {
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  flex-basis: 30%;
+}
+
+@media (min-width: 900px) {
+  .call-outs-container {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.call-out:nth-child(1) {background-color: #c0dbe2;}
+.call-out:nth-child(2) {background-color: #cdf1c3;}
+.call-out:nth-child(3) {background-color: #ccb9da;}
 
 /* fourth example */
 .fixed-size-container {
@@ -88,17 +123,41 @@ h2, h3 {
   margin-bottom: 20px;
 }
 
+/* fifth example */
+.banner {
+  height: 200px;
+  max-width: 900px;
+  margin: 40px auto 40px auto;
+  background-color:lightyellow;
+  display: flex;
+}
+
+.center-me {
+  color: black;
+  font-size: 20px;
+  margin: auto;
+}
+
+.banner2{
+height:40px;
+margin: 40px auto 40px ;
+max-width: 900px;
+display: flex;
+}
+
+
+
+
+
 /* sixth example */
 .equal-height-container {
-  max-width: 1300px;
-  line-height: 1.65;
-  padding: 20px 50px;
+  max-width: 900px;
   margin: 0 auto;
   display: flex;
 }
 
 .first {
-  background-color: beige;
+  background-color: #FFF;
   padding: 20px;
   flex: 1;
 }
@@ -111,33 +170,11 @@ h2, h3 {
 }
 
 .second-a {
-  background-color: lightgrey;
+  background-color: #c0dbe2;
   flex: 1;
 }
+
 .second-b {
-  background-color:lightgray ;
+  background-color: #cdf1c3;
   flex: 1;
 }
-
-/* fifth example */
-.banner {
-  height: 120px;
-  max-width: 900px;
-  margin: 40px auto 40px auto;
-  background-color:lightgray;
-  display: flex;
-}
-
-.center-me {
-  color: darkgreen;
-  font-size: 20px;
-  margin: auto;
-}
-
-.banner2{
-height:40px;
-margin: 40px auto 40px ;
-max-width: 900px;
-display: flex;
-}
-

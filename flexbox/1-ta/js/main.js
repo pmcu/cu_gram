@@ -60,9 +60,12 @@ var bealach = `
 <li><a href="#">Briathar 1</a></li>
 </ul>
 </nav>
-<h4>O Theanga go Céile</h4>
+<h3>Cuidiú Béarla</h3>
 <ul>
 	<li><strong>Tá</strong>: is, am, are</li>
+	<li><strong>Bhí</strong>: was - were</li>
+	<li><strong>Beidh</strong>: will be</li>
+	<li><strong>Bheadh</strong>: would be</li>
 	<li><strong>cú</strong>: dog, hound</li>
 	<li><strong>aidiacht</strong>: adjective</li>
 	<li><strong>seas</strong>: stand</li>
@@ -73,13 +76,16 @@ var bealach = `
 	<li><strong>fada</strong>: long</li>
 	<li><strong>beag</strong>: wee,small</li>
 	<li><strong>mór</strong>: big</li>
-	<li><strong>ceolmhar</strong>: musical</li>
+	<li><strong>an</strong>: the</li>
+        <li><strong>ceolmhar</strong>: musical</li>
 	<li><strong>cróga</strong>: brave</li>
 	<li><strong>dóighiúil</strong>: handsome</li>
 	<li><strong>ramhar</strong>: fat</li>
 	<li><strong>blasta</strong>: tasty</li>
 	<li><strong>leadránach</strong>: boring</li>
 	<li><strong>uaigneach</strong>: lonely</li>
+	<li><strong>thart</strong>: past, gone</li>
+	<li><strong>cur i gcás</strong>: suppose, possit a case</li>
 
 </ul>
 `
@@ -96,8 +102,8 @@ var taobh = `
 </ol>
 <ul>
 	<li>Tá Tadhg buí.</li>
-	<li>Tá Tadhg donn.</li>
-	<li>Tá Tadhg beag.</li>
+	<li>Tá Bran donn.</li>
+	<li>Tá Sceolaí beag.</li>
 	<li>Tá Tadhg mór.</li>
 </ul>
 
@@ -127,15 +133,66 @@ var taobh = `
 <strong>Cloigh leis an 1,2,3</strong>
 <ul>
 	<li><strike> an easóg bhí fada.</strike></li>
-	<li><strike>  uaigneach an cat sin beidh.</strike></li>
 	<li><strike>  bhíodh deas an obair .</strike></li>
 	<li><strike>  coinín sin tá blasta.</strike></li>
 </ul>
 `
 var nota =`
 <h2>Nótaí Eile</h2>
-<p>Seo áit do nótaí eile agus eolas níos doimhne</p>
+<h3>Trí Am & Rud eile</h3>
+<ol>
+	<li><strong>anois</strong> - an t-am nach bhfuil thart</li>
+	<li><strong>ansin </strong>- an t-am sin atá thart</li>
+	<li><strong>ansin </strong>- an t-am sin atá le theacht </li>
+</ol>
+
+<ol>
+	<li><h3>Tá</h3></li>
+	<li><h3>Bhí</h3></li>
+	<li><h3>Beidh</h3></li>
+</ol>
+<h3>An Rud Eile:</h3>
+<p><strong>Cur i gcás</strong></p>
+<ol>
+	<li>mise - gan bhia</li>
+	<li>tusa - gan airgead</li>
+	<li>eisean - gan chiall</li>
+</ol>
+
+<ol>
+	<li>Bheinn ocrach</li>
+	<li>Bheifeá bocht</li>
+	<li>Bheadh sé amaideach</li>
+</ol>
+
 `
+
+var notaB= `
+<H2>Foirmeacha</h2>
+<H3>Foirm Eile - Ciall Chéanna</h3>
+<strong>Tá - Fuil</strong>
+<p>Chuala mé scéal eile faoi stair an dara focal
+sin. Chuala mé go dtáinig sé as focal a chiallaigh 'feic', is é sin (rud a) fheiceáil leis na súile. Bíodh an scéal suimiúil sin mar atá, roinneann sé le fada an chiall chéanna atá ag <strong>Tá</strong>. Ní úsáidtear an bheirt acu sa chomhthéacs chéanna, áfach.
+</p>
+<h3>Cur Síos Eile</h3>
+<p>Is fearr a thuigfear an duifear san úsáid le samplaí. Déantar tábla beag.</p>
+<table >
+<tr>
+
+		<td>Fíor</td>
+		<td>Bréagach</td>
+</tr>
+<tr>
+	<td>bán</td>
+	<td><strike>bán</strike></td>
+</tr>
+</table>
+
+
+`
+//
+//-------------
+
 //  *** cód don leathanach HTML
 document.getElementById('lucht-div').innerHTML=`
  ${lucht}
@@ -143,9 +200,15 @@ document.getElementById('lucht-div').innerHTML=`
 document.getElementById('bealach-div').innerHTML=`
  ${bealach}
 `
+
 document.getElementById('taobh-div').innerHTML=`
  ${taobh}
 `
+
 document.getElementById('nota-div').innerHTML=`
  ${nota}
+`
+
+document.getElementById('notaB-div').innerHTML=`
+ ${notaB}
 `
