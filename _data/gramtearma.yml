@@ -1,10 +1,10 @@
-
 - ainm: "ainmfhocal"
   eolas: "Rann Cainte a chuireann in iúl dúinn an t-ainm atá ar dhuine nó ar áít nó ar rud"
   samplai: "cat, teach, An Dún"
 
 - ainm: "briathar"
-  eolas: "Rann Cainte a mbainter úsáid as chun rud éigin a rá faoi rud éigin eile. Ciallaíonn sé gníomh de ghnáth."
+  eolas: "Rann Cainte a mbainter úsáid as chun rud éigin a rá faoi rud éigin eile.
+   Ciallaíonn sé gníomh de ghnáth."
   samplai: "tóg, caith, ól"
 
 - ainm: "An Chéad Réimniú (a)"
@@ -18,7 +18,7 @@
 
 - ainm: "An Chéad Réimniú (c)"
   eolas: "Cúpla briathar eile"
-  samplaí: "   "
+  samplaí: " --  "
 
 - ainm: "An Dara Réimniú (a)"
   eolas: "Briathra ó fhréamhacha ilsiollacha
@@ -31,11 +31,13 @@
   samplaí: "ceangail, cosain, imir, inis"
 - ainm: "An Dara Réimniú (c)"
   eolas: " cúpla briathar eile "
-  samplaí: " "
+  samplaí: " -- "
+
 - ainm: "Foirm tháite"
   eolas: " foirm ina mbíonn an tAinmní intuigthe as foirceann
         an bhriathair."
   samplaí: "Dúnaim an doras."
+
 - ainm: "Foirm scartha"
   eolas: " foirm ina mbíonn an tAinmní scartha
         ón bhriathair."
@@ -47,51 +49,55 @@
 
 - ainm: "Briathra neamhrialta"
   eolas: "Bíonn athrú fréimhe orthu ó mhodh go
-modh nó ó aimsir go haimsir."
+      modh nó ó aimsir go haimsir."
   samplaí: "téim, chuaigh mé, rachainn."
+
 - ainm: "Foirmeacha Neamhspleácha"
   eolas: " Leanann an fhoirm neamhspleách
-na mionfhocail seo sna samplaí."
+        na mionfhocail seo sna samplaí."
   samplaí: " cé, cad, céard, conas, cathain, nuair, ó."
 
 - ainm: "Foirmeacha spleácha"
   eolas: " Leanann an fhoirm spleách
-na mionfhocail seo sna samplaí."
+      na mionfhocail seo sna samplaí."
   samplaí: " an, ní, nach, cá, go, dá, mura, agus
         ar, níor, nár, cár, gur, murar."
+
 - ainm: "Foirmeacha spleácha"
   eolas: " Leanann an fhoirm spleách
-  na mionfhocail seo sna samplaí."
+    na mionfhocail seo sna samplaí."
   samplaí: " an, ní, nach, cá, go, dá, mura, agus
         ar, níor, nár, cár, gur, murar."
 
 - ainm: "Briathra Aisteacha"
   eolas: " Bíonn briathar aistreach nuair
-ghabhann an gníomh ar aistear ón ngníomhaí
-go dtí cuspóir éigin."
+        ghabhann an gníomh ar aistear ón ngníomhaí
+    go dtí cuspóir éigin."
   samplaí: "Tóg an mála; cloisim thú; chaith sé an t-airgead."
 
 - ainm: "Briathra neamhaisteacha"
   eolas: " Bíonn briathar neamhaistreach nuair
-nach dteastaíonn cuspóir uaidh."
+             nach dteastaíonn cuspóir uaidh."
   samplaí: "tháinig sé aréir; fanann sé liom gach lá;
-labhraíonn sé go maith."
+           labhraíonn sé go maith."
 
 - ainm: "An Modh Táscach"
-  eolas: "Is é seo an modh is coitianta. Baintear úsáid as
-        , de ghnáth, chun tásc nó tuairisc a thabhairt  nó
+  eolas: "Is é seo an modh is coitianta. Baintear úsáid as,
+         de ghnáth, chun tásc nó tuairisc a thabhairt  nó
         chun ceist a chur "
   samplai: "Tiocfaidh sé amárach; bhuil aon scéala agat?"
 
 - ainm: "An Modh Coinníollach"
   eolas: "Bíonn coinníoll, de ghnáth, san abairt
-ina mbíonn an Modh Coinníollach."
+  ina mbíonn an Modh Coinníollach."
   samplai: "Dá mbeadh míle punt aige, chaithfeadh sé
- an t-iomlán de. "
+ an t-iomlán de."
+
 - ainm: "An Modh Ordaitheach"
   eolas: "Baintear feidhm as an modh seo chun
-ordú a thabhairt, nó chun achainí a iarraidh."
+           ordú a thabhairt, nó chun achainí a iarraidh."
   samplai: "Dún an doras; ná habair focal; déanaimis ár ndícheall."
+
 - ainm: "An Modh Foshuiteach"
   eolas: "Ní féidir an Modh Foshuiteach a úsáid gan
        mionfhocal - go, ná, nár - a theacht roimhe.
@@ -101,15 +107,15 @@ ordú a thabhairt, nó chun achainí a iarraidh."
 
 - ainm: "An Saorbhriathar"
   eolas: "Sin gné den bhriathar  a úsáidtear nuair
-nach eol don chainteoir an gníomhaí, nó nuair nach
-mian leis é a lua".
+     nach eol don chainteoir an gníomhaí, nó nuair nach
+     mian leis é a lua".
   samplai: "Goideadh an t-airgead aréir; déantar in
    Éirinn é ."
 
 - ainm: "An tAlt"
   eolas: "Níl ach alt amháin sa Ghaeilge, i.e. an. Na
-is gné don alt san Uimhir Iolra, agus sa Tuiseal Ginideach Uatha Baininscneach.
-  "
+    is gné don alt san Uimhir Iolra, agus sa Tuiseal
+    Ginideach Uatha Baininscneach."
   sampla: "an fear, na fir, gúna na mná"
 
 - ainm: "forainm "
