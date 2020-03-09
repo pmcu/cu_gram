@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /alt/
 ---
 <head>
@@ -11,10 +11,11 @@ permalink: /alt/
 <img src = "../assets/img/tadhg.jpg">
 <br><br><hr><br>
 <ul>
-	{% for post in site.alt %}
-	{% if post.type == 'alt' %}
+	{% for item in site.alt %}
+	{% if item.type == 'alt' %}
 	<li>
-		<a href="{{ post.url | relative_url }}"> {{post.title}} </a>
+		<a href="{{ item.url | relative_url }}">
+			{{item.title}} </a>
 	</li>
 	{% endif %}
 	{% endfor %}
