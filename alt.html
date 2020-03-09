@@ -14,8 +14,7 @@ type: alt
 <ul>
 	{% for item in site.alt %}
 	<li>
-		<a href="{{ item.url | relative_url }}">
-			{{item.title}} </a>
+	<a href="{{ item.url | relative_url }}">{{item.title}}</a>
 	</li>
 	{% endfor %}
 

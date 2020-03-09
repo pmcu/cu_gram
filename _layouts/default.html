@@ -4,12 +4,12 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 <html lang="{{ page.lang | default: site.lang | default: "ga" }}">
-  {%- include head.html -%}
+  {% include head.html %}
 </head>
   <body>
 
-  {%- include navigation.html -%}
-   {%- include header.html -%}
+  {% include navigation.html %}
+   {% include header.html %}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
@@ -17,7 +17,7 @@
       </div>
     </main>
 
-    {%- include footer.html -%}
+    {% include footer.html %}
 
   </body>
 
