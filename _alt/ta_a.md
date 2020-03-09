@@ -1,8 +1,7 @@
 ---
-layout: "default"
-title: "Tá - Úsáid 1 - Ionad"
+layout: default
+title: Tá Úsáid 1 - Ionad
 cat: taisp
-type: alt
 permalink: /ta-1/
 ---
 <br>

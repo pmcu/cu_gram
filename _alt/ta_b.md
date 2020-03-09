@@ -1,8 +1,7 @@
 ---
-layout: "default"
-title: "Tá - dath"
+layout: default
+title: Tá - dath
 cat: taisp
-type: alt
 permalink: /ta-2/
 ---
 <br>

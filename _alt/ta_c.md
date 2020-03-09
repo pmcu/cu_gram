@@ -1,8 +1,7 @@
 ---
-layout: "default"
-title: "Tá  + ag + a.b"
+layout: default
+title: Tá  - ag - a.b
 cat: taisp
-type: alt
 permalink: /ta-3/
 ---
 
