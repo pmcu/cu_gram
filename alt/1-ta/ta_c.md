@@ -5,11 +5,13 @@ cat: taisp
 type: alt
 permalink: /ta-3/
 ---
+
 <br>
-<hr>
+<br>
 <br>
 
 ![pic](../assets/img/tadhg.jpg)
+
 ## *Tá* agus *ag* + a.b(ainm briathartha)
 
 Rud an-úsáideach a bheith ábalta a chur in iúl
