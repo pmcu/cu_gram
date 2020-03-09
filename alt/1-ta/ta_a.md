@@ -10,6 +10,7 @@ permalink: /ta-1/
 <br>
 ![pic](../assets/img/tadhg.jpg)
 ## *Tá* agus *Seas*
+# Tástáil
 Dúradh go raibh baint stairiúil ag *tá* leis an fhocal
 sto sa Laidin, focal a chiallaíonn *seasaim*. Más fíor sin
 tig sé go breá leis an chéad úsáid de *tá* a phléifear anseo.
