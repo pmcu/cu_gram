@@ -11,7 +11,7 @@ permalink: /alt/
 <img src = "../assets/img/tadhg.jpg">
 <br><br><hr><br>
 <ul>
-	{% for post in site.pages %}
+	{% for post in site.alt %}
 	{% if post.type == 'alt' %}
 	<li>
 		<a href="{{ post.url | relative_url }}"> {{post.title}} </a>
