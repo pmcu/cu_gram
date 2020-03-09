@@ -31,7 +31,15 @@ const tearmai = {
 	ag rud le rud eile`,
 	dobhriathar: `
 	Is Rann Cainte an Dobhriathar a chuireann teora le brí briathair,
-	aidiacht, nó dobhriathar eile `
+	aidiacht, nó dobhriathar eile `,
+	cónasc: `
+	Is Rann cainte an Cónasc a cheanglaíonn dhá abairt, dhá
+	fhochlásal, dhá abairtí, nó dhá fhocal le chéile. `,
+	intriacht: `
+	Tugtar Intriacht ar an bhfocal nó dhó, nó ar an bhfuaim a deir
+	duine go hobann nuair chorrítear é.
+	`
+
 };
 
 var samplai = {
@@ -40,7 +48,9 @@ var samplai = {
 	aidiacht: `bán, mór, cróga, amaideach, áirithe`,
 	briathar: `bí(tá), ith, ól, siúl, léim, scríobh, léigh`,
 	réamhfhocal: `i, ar, ag, faoi, roimh, le, fríd`,
-	dobhriathar: `go gasta, go leor, beagnach`
+	dobhriathar: `go gasta, go leor, beagnach`,
+	cónasc: `agus,  ach, nó`,
+	intriacht: `Á! Ó! Faraor!`
 
 };
 
