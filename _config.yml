@@ -20,5 +20,3 @@ collections:
     output: true
 
 theme: minima
-plugins:
-  - jekyll-feed

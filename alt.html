@@ -13,12 +13,10 @@ type: alt
 <br><br><hr><br>
 <ul>
 	{% for item in site.alt %}
-	{% if item.type == 'alt' %}
 	<li>
 		<a href="{{ item.url | relative_url }}">
 			{{item.title}} </a>
 	</li>
-	{% endif %}
 	{% endfor %}
 
 </ul>

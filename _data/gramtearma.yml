@@ -1,5 +1,5 @@
 - ainm: "ainmfhocal"
-  eolas: "Rann Cainte a chuireann in iúl dúinn an t-ainm atá ar dhuine nó ar áít nó ar rud"
+  eolas: "Rann Cainte a chuireann in iúl dúinn an t-ainm atá ar dhuine nó ar áít     nó ar rud"
   samplai: "cat, teach, An Dún"
 
 - ainm: "briathar"
@@ -24,11 +24,13 @@
   eolas: "Briathra ó fhréamhacha ilsiollacha
         a chríochnaíonn ar -aigh. "
   samplaí: "ceannaigh, dúisigh, imigh"
+
 - ainm: "An Dara Réimniú (b)"
   eolas: "Briathra ó fhréamhacha ilsiollacha
         a chríochnaíonn ar -(a)il,-(a)in,-(a)is, agus
         a choimrítear sa réimniú. "
   samplaí: "ceangail, cosain, imir, inis"
+
 - ainm: "An Dara Réimniú (c)"
   eolas: " cúpla briathar eile "
   samplaí: " -- "
