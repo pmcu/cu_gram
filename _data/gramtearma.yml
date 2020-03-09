@@ -6,17 +6,112 @@
   eolas: "Rann Cainte a mbainter úsáid as chun rud éigin a rá faoi rud éigin eile. Ciallaíonn sé gníomh de ghnáth."
   samplai: "tóg, caith, ól"
 
-- ainm: "An Chéad Réimniú"
-  eolas: "(a) Briathra ó fhréamhacha aonsiollacha: dún, caith, ól
-  (b) Briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar -áill:
-  cardáil, ciondáil, sábháil.
-  (c) Cúpla briathar ar leith
-  "
-- ainm: "aidiacht"
-  eolas: "Rann Cainte a chuitear le hainmfhocal chun cáilíocht áirithe a bhaineann leis an duine nó leis an rud atá i gceist a léiriú."
-  samplai: "ard, beag, milis"
+- ainm: "An Chéad Réimniú (a)"
+  eolas: "(a) Briathra ó fhréamhacha aonsiollacha"
+  samplaí: "dún, caith, ól"
 
-- ainm: "forainm"
+- ainm: "An Chéad Réimniú (b)"
+  eolas: "Briathra ó fhréamhacha ilsiollacha a chríochnaíonn
+  ar -áill"
+  samplaí: "cardáil, ciondáil, sábháil."
+
+- ainm: "An Chéad Réimniú (c)"
+  eolas: "Cúpla briathar eile"
+  samplaí: "   "
+
+- ainm: "An Dara Réimniú (a)"
+  eolas: "Briathra ó fhréamhacha ilsiollacha
+        a chríochnaíonn ar -aigh. "
+  samplaí: "ceannaigh, dúisigh, imigh"
+- ainm: "An Dara Réimniú (b)"
+  eolas: "Briathra ó fhréamhacha ilsiollacha
+        a chríochnaíonn ar -(a)il,-(a)in,-(a)is, agus
+        a choimrítear sa réimniú. "
+  samplaí: "ceangail, cosain, imir, inis"
+- ainm: "An Dara Réimniú (c)"
+  eolas: " cúpla briathar eile "
+  samplaí: " "
+- ainm: "Foirm tháite"
+  eolas: " foirm ina mbíonn an tAinmní intuigthe as foirceann
+        an bhriathair."
+  samplaí: "Dúnaim an doras."
+- ainm: "Foirm scartha"
+  eolas: " foirm ina mbíonn an tAinmní scartha
+        ón bhriathair."
+  samplaí: "Dhún mé an doras."
+
+- ainm: "Briathra rialta"
+  eolas: "Ní bhíonn athrú fréimhe orthu sa réimniú."
+  samplaí: "tógaim, thóg mé, thógfainn, tógáil."
+
+- ainm: "Briathra neamhrialta"
+  eolas: "Bíonn athrú fréimhe orthu ó mhodh go
+modh nó ó aimsir go haimsir."
+  samplaí: "téim, chuaigh mé, rachainn."
+- ainm: "Foirmeacha Neamhspleácha"
+  eolas: " Leanann an fhoirm neamhspleách
+na mionfhocail seo sna samplaí."
+  samplaí: " cé, cad, céard, conas, cathain, nuair, ó."
+
+- ainm: "Foirmeacha spleácha"
+  eolas: " Leanann an fhoirm spleách
+na mionfhocail seo sna samplaí."
+  samplaí: " an, ní, nach, cá, go, dá, mura, agus
+        ar, níor, nár, cár, gur, murar."
+- ainm: "Foirmeacha spleácha"
+  eolas: " Leanann an fhoirm spleách
+  na mionfhocail seo sna samplaí."
+  samplaí: " an, ní, nach, cá, go, dá, mura, agus
+        ar, níor, nár, cár, gur, murar."
+
+- ainm: "Briathra Aisteacha"
+  eolas: " Bíonn briathar aistreach nuair
+ghabhann an gníomh ar aistear ón ngníomhaí
+go dtí cuspóir éigin."
+  samplaí: "Tóg an mála; cloisim thú; chaith sé an t-airgead."
+
+- ainm: "Briathra neamhaisteacha"
+  eolas: " Bíonn briathar neamhaistreach nuair
+nach dteastaíonn cuspóir uaidh."
+  samplaí: "tháinig sé aréir; fanann sé liom gach lá;
+labhraíonn sé go maith."
+
+- ainm: "An Modh Táscach"
+  eolas: "Is é seo an modh is coitianta. Baintear úsáid as
+        , de ghnáth, chun tásc nó tuairisc a thabhairt  nó
+        chun ceist a chur "
+  samplai: "Tiocfaidh sé amárach; bhuil aon scéala agat?"
+
+- ainm: "An Modh Coinníollach"
+  eolas: "Bíonn coinníoll, de ghnáth, san abairt
+ina mbíonn an Modh Coinníollach."
+  samplai: "Dá mbeadh míle punt aige, chaithfeadh sé
+ an t-iomlán de. "
+- ainm: "An Modh Ordaitheach"
+  eolas: "Baintear feidhm as an modh seo chun
+ordú a thabhairt, nó chun achainí a iarraidh."
+  samplai: "Dún an doras; ná habair focal; déanaimis ár ndícheall."
+- ainm: "An Modh Foshuiteach"
+  eolas: "Ní féidir an Modh Foshuiteach a úsáid gan
+       mionfhocal - go, ná, nár - a theacht roimhe.
+       Baintear feidhm as an Modh Foshuiteach chun mian, guí,
+      beannacht, nó mallacht a chur in iúl."
+  samplai: "Go maire tú; ná raibh ráth air."
+
+- ainm: "An Saorbhriathar"
+  eolas: "Sin gné den bhriathar  a úsáidtear nuair
+nach eol don chainteoir an gníomhaí, nó nuair nach
+mian leis é a lua".
+  samplai: "Goideadh an t-airgead aréir; déantar in
+   Éirinn é ."
+
+- ainm: "An tAlt"
+  eolas: "Níl ach alt amháin sa Ghaeilge, i.e. an. Na
+is gné don alt san Uimhir Iolra, agus sa Tuiseal Ginideach Uatha Baininscneach.
+  "
+  sampla: "an fear, na fir, gúna na mná"
+
+- ainm: "forainm "
   eolas: "Rann Cainte a chuirtear in áit ainmfhocail. Déantar forainm tagairt do dhuine
   nó do rud gan an duine nó an rud a ainmniú"
   samplai: "mé, cé, seo, cad"
