@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "default"
 title: "Tá - Úsáid 1 - Ionad"
 cat: taisp
 type: alt
