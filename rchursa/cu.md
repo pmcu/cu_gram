@@ -76,7 +76,7 @@ romhat anseo.
 - Sceilg - Seán Ó Ceallaigh
 - An Bheirneach - ??
 
-## Samplaí don Mhodh Tagartha
+## Samplaí den Mhodh Thagartha
 
 > Agus nuair a thagadh an oíche ... chornódh siad iad féin
 ina gcuid blaincéad, leagfadh a gcinn ar a gcuid dialait
