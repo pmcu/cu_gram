@@ -6,6 +6,12 @@
   eolas: "Rann Cainte a mbainter úsáid as chun rud éigin a rá faoi rud éigin eile. Ciallaíonn sé gníomh de ghnáth."
   samplai: "tóg, caith, ól"
 
+- ainm: "An Chéad Réimniú"
+  eolas: "(a) Briathra ó fhréamhacha aonsiollacha: dún, caith, ól
+  (b) Briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar -áill:
+  cardáil, ciondáil, sábháil.
+  (c) Cúpla briathar ar leith
+  "
 - ainm: "aidiacht"
   eolas: "Rann Cainte a chuitear le hainmfhocal chun cáilíocht áirithe a bhaineann leis an duine nó leis an rud atá i gceist a léiriú."
   samplai: "ard, beag, milis"
@@ -22,3 +28,4 @@
 - ainm: "dobhriathar"
   eolas: "Rann Cainte a chuireann teora le brí briathair, aidiachta, dobhriathair eile."
   samplai: "go tapaidh, go mall, go leor"
+
