@@ -1,6 +1,6 @@
 ---
 layout: "default"
-title: "Tá - Úsáid 3 - ag + ab"
+title: "Tá  + ag + a.b"
 cat: taisp
 type: alt
 permalink: /ta-3/
