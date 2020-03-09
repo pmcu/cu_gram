@@ -7,5 +7,5 @@ permalink: /tearma/
 ---
 ![pic](../assets/img/tadhg.jpg)
 
-Baineadh na téarmaí seo as Réchúrsa Gramadaí.
+<h3>Baineadh na téarmaí seo as Réchúrsa Gramadaí</h3>
 
