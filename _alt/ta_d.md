@@ -44,6 +44,7 @@ chur sa ghinideach, rud a léiríonn baint aige leis an chéad cheann.
 - cró (muc) : cró muice
 - obair (teach) : obair tí
 - hata Phóil
+- cú seilge
 
 Is é a dhála chéanna ag an ainm bhriathartha agus an ainmhfhocal a leanann
 é. Cuirtear an dara ceann sa tuiseal ghinideach lena thaispeáint ceangal aige
