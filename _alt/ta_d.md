@@ -1,0 +1,69 @@
+---
+layout: default
+title: gníomh agus cuspóir
+cat: taisp
+permalink: /ta-3/
+---
+
+<br>
+<br>
+<br>
+
+![pic](../assets/img/tadhg.jpg)
+
+## * Gníomh agus a Chuspóir
+
+### Ceisteanna faoi na Samplaí
+- Tá an cat ag ól. - deoch a ligean sa sceadaman
+- Tá Tadhg ag ithe. - bia a ligean sa sceadaman
+- Tá an chearc ag eitilt. - snámh fríd an spéir
+
+Roghnaigh mé na hainmneacha briathartha sna samplaí thuas sa dóigh
+go mbeadh siad soiléir uathu, ó na hainmneacha briathartha, agus uathu
+amháin cad é an obair atá ar siúl. Ach bíonn amanna ann, agus is deas é
+mar eolas an gníomh a bheith ag dul i bhfeidhm ar rud eile.
+
+Is soiléire a leithéid seo i bhfoirm samplaí ar ndóighe.
+
+### Gníomh agus rud
+
+- ag ól (fíon, beoir)
+- ag ithe (cat, cearc)
+- ag bualadh (asal, Pól)
+- ag scríobh (litir, scéal)
+
+Seo an rud atá suimiúil faoin scéal anseo, is ainmfhocal an t-ainm briathartha agus
+is ainmfhocal an rud a bhfuil sé ag dul i bhfeidhm air. Agus dhá ainmfhocal in aice lena
+chéile mar seo, is minic a ghníthear ceangal eadarthu. I nGaeilge is minic an dara ceann a
+chur sa ghinideach, rud a léiríonn baint aige leis an chéad cheann.
+
+### Rud agus rud
+- bosca (adhmad) : bosca adhmaid
+- buidéál (fíon) : buidéal fíona
+- hata (fear) : hata fir
+- cró (muc) : cró muice
+- obair (teach) : obair tí
+- hata Phóil
+
+Is é a dhála chéanna ag an ainm bhriathartha agus an ainmhfhocal a leanann
+é. Cuirtear an dara ceann sa tuiseal ghinideach lena thaispeáin ceangal aige
+leis an ainmfhocal a thigeas roimhe.
+
+### Gníomh agus rud 2
+
+- ag ól (fíon, beoir): ag ól fíona, ag ól beorach
+- ag ithe (cat, cearc): ag ithe cait(cat amháin), ag ithe circe
+- ag bualadh (asal, Pól): ag bualadh asail(asal amháín), ag bualadh Phóil
+- ag scríobh (litir, scéal): ag scríobh litreach, ag scríobh scéil
+
+
+
+
+
+
+
+
+
+
+
+
