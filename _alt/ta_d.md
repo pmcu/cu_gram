@@ -46,7 +46,7 @@ chur sa ghinideach, rud a léiríonn baint aige leis an chéad cheann.
 - hata Phóil
 
 Is é a dhála chéanna ag an ainm bhriathartha agus an ainmhfhocal a leanann
-é. Cuirtear an dara ceann sa tuiseal ghinideach lena thaispeáin ceangal aige
+é. Cuirtear an dara ceann sa tuiseal ghinideach lena thaispeáint ceangal aige
 leis an ainmfhocal a thigeas roimhe.
 
 ### Gníomh agus rud 2
