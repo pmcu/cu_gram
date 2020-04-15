@@ -56,6 +56,36 @@ leis an ainmfhocal a thigeas roimhe.
 - ag bualadh (asal, Pól): ag bualadh asail(asal amháín), ag bualadh Phóil
 - ag scríobh (litir, scéal): ag scríobh litreach, ag scríobh scéil
 
+### Téarmaíocht - focal ar fhocal
+- ainmfhocal mar ghníomh : *ainm briathartha* <strong>ab</strong>
+- ainmfhocal mar rud a dtéid ainm briathartha i bhfeidhm air : *cuspóir*
+- briathar a oibríonn ar ainmfhocal  - briathar a ghlacann cuspóir: *briathar aistreach*
+- foirm ainmfhocail a léiríonn ceangal idir é agus an focal roimhe: *tuiseal ginideach*
+
+## Tógáil tí
+
+| Tá  | gníomhaí | ag  | ab      | cuspóir |
+| --- | ---      | --- | ---     | ---     |
+| Tá  | cat     | ag  | ól      | bainne |
+| Tá  | Pól     | ag  | ithe    | cait |
+| Tá  | Síle    | ag  | bualadh | asail |
+| Tá  | mamaí   | ag  | bualadh | Phóil |
+
+<strong>NB. Sa chás seo bíonn an cuspóir sa ghinideach.</strong>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
