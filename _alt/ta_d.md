@@ -1,6 +1,6 @@
 ---
 layout: default
-title: gníomh agus cuspóir
+title: Tá - gníomh agus cuspóir
 cat: taisp
 permalink: /ta-3/
 ---
@@ -11,9 +11,9 @@ permalink: /ta-3/
 
 ![pic](../assets/img/tadhg.jpg)
 
-## * Gníomh agus a Chuspóir
+## Tá - Gníomh agus a Chuspóir
 
-### Ceisteanna faoi na Samplaí
+### An cat agus a chuid bainne
 - Tá an cat ag ól. - deoch a ligean sa sceadaman
 - Tá Tadhg ag ithe. - bia a ligean sa sceadaman
 - Tá an chearc ag eitilt. - snámh fríd an spéir
