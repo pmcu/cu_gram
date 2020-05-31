@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Tá - cuspóir
@@ -99,7 +98,12 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 2. Cad é atá Síle a bhualadh? Tá sí ag bualadh asail(ceann amháin).
 3. Cé é atá mamaí a bhualadh? Tá sí ag bualadh Phóil.
 
-<strong>Nóta: Níl leagan ginideach do *cé* ann ach an oiread.
+<strong>Nóta: Níl leagan ginideach do *cé* ann ach an oiread.</strong>
+
+##### Pointe suime
+
+De mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
+é sin *do dho*.  Is cosúil dtarlaíonn a leithéid mar ghléas soiléirithe.
 
 
 
