@@ -26,17 +26,20 @@ aon cheann de na habairtí mar lipéad tagartha.
 #### Eolas 2 - Eolas a bhfuil cuid de ceilte ar choileán na ceiste
 
 a. Tá an cat ag ól.
+
 b. Tá Tadhg ag ithe.
+
 c. Tá an chearc ag eitilt.
 
 #### Eolas 1 - Eolas atá ag an choileán sula gcuireann sé a cheist
 
 a. Tá an _ ag ól.
+
 b. Tá _ ag ithe.
+
 c. Tá an _ ag eitilt.
 
-### Cé atá ag ...
-### Cad é atá ag ...
+### Cé atá ag ... /  Cad é atá ag ...
 
 Agus a fhios ag an choileán, gur duine nó neach faoi leith
 atá ar obair, chuirfeadh sé in iúl an bhearna atá le líonadh
@@ -51,7 +54,9 @@ go staid eolais 2.
 ##### Aige seo obair na ceiste mar a bheadh sí ar siúl ó cheann go ceann.
 
 a. *Cad é* atá ag ól? FREAGAIR: Tá an *cat* ag ól.
+
 a. *Cé* atá ag ithe? FREAGAIR: Tá *Tadhg* ag ithe.
+
 a. *Cad é* atá ag eitilt? FREAGAIR: Tá an *chearc* ag eitilt.
 
 
