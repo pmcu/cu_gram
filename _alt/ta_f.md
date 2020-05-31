@@ -60,7 +60,7 @@ de dhíth ar ág gcú. Déantar tábla eile.
 
 
 a. Cad é atá an cat ag ól? ?
-##### Deacrachtaí
+### Deacrachtaí
 1. Damnú! Tá mé ag cuartú sa bhosca chontráilte. Sin an colún do *ab*.
 2. Agus tá an *Cad é* sin ag tagairt do cholún 2, giota nach bhfuil uaim.
 3. Tá mé thuas san aer, agus an chonairt ag fanacht le deireadh mo cheiste.
@@ -80,7 +80,7 @@ ar theacht ar réiteach.
 
 b. *Cad é* atá an cat *a ól*?
 
-#### Machnamh
+### Machnamh
 Cuireann an *do* in iúl nach focail san ainmneach atá i gceist, agus
 ghníthear iarthagairt don *Cad é*, de gheall ar an cheangal a dhéanamh.
 Anois is féidir leis an *cad é* tagairt a dhéanamh don ainmfhocal sa
@@ -93,7 +93,7 @@ b. Cad é atá an cat *a ól*? < do ól . CEART!
 
 Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
-#### Ceist - Freagra
+### Ceist - Freagra
 
 1. Cad é atá Pól a ithe? nó a dh'ithe? Tá sé ag ithe cait(ceann amháin).
 2. Cad é atá Síle a bhualadh? Tá sí ag bualadh asail(ceann amháin).
@@ -101,7 +101,7 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
 <strong>Nóta: Níl leagan ginideach do *cé* ann ach an oiread.</strong>
 
-##### Pointe suime
+#### Pointe suime
 
 De mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
 é sin *do dho*.  Is cosúil dtarlaíonn a leithéid mar ghléas soiléirithe.
