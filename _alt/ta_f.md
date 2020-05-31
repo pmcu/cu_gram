@@ -70,7 +70,7 @@ Anois dá mbeadh leagan den *Cad é* údaí san tuiseal ghinideach, bheadh liom!
 Níl a leithéid ann! Smaoiním ar sheift, leagan ceiste eile a chuartú de gheall
 ar theacht ar réiteach.
 
-###### A leithéidí seo
+##### A leithéidí seo
 
 1a. Ar mhaith leat cupa tae *a ól*? < *do ól*
 
@@ -80,7 +80,7 @@ ar theacht ar réiteach.
 
 b. *Cad é* atá an cat *a ól*?
 
-##### Machnamh
+#### Machnamh
 Cuireann an *do* in iúl nach focail san ainmneach atá i gceist, agus
 ghníthear iarthagairt don *Cad é*, de gheall ar an cheangal a dhéanamh.
 Anois is féidir leis an *cad é* tagairt a dhéanamh don ainmfhocal sa
