@@ -19,7 +19,7 @@ permalink: /ta-6/
     1. *Cad é* atá ag ól? Freag: Tá *an cat* ag ól.
     2. *Cé* atá ag ithe? Freag: Tá *Pól* ag ithe.
 
-D'éirigh leis an chún fhiosrach a fháil amach *cé* a bhí ag
+D'éirigh leis an chú fhiosrach a fháil amach *cé* a bhí ag
 obair, nó *cad é* a bhí ag obair, mar a léirítear thuas.
 
 Ach d'fhéadfadh sé bearnaí eile a bheith ina chuid eolais, maidir le
@@ -46,6 +46,7 @@ Cuirtear i gcás an t-eolas i gcolún 5 a bheith
 de dhíth ar ág gcú. Déantar tábla eile.
 
 #### Eolas atá ar iarraidh
+
 | Tá  | gníomhaí | ag  | ab      | cuspóir |
 | --- | ---      | --- | ---     | ---     |
 | 1   | 2        | 3   | 4       | 5       |
