@@ -70,7 +70,7 @@ Anois dá mbeadh leagan den *Cad é* údaí san tuiseal ghinideach, bheadh liom!
 Níl a leithéid ann! Smaoiním ar sheift, leagan ceiste eile a chuartú de gheall
 ar theacht ar réiteach.
 
-##### A leithéidí seo
+### A leithéidí seo
 
 1a. Ar mhaith leat cupa tae *a ól*? < *do ól*
 
@@ -101,7 +101,7 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
 <strong>Nóta: Níl leagan ginideach do *cé* ann ach an oiread.</strong>
 
-#### Pointe suime
+### Pointe suime
 
 De mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
 é sin *do dho*.  Is cosúil dtarlaíonn a leithéid mar ghléas soiléirithe.
