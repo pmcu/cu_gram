@@ -39,7 +39,7 @@ chur sa ghinideach, rud a léiríonn baint aige leis an chéad cheann.
 
 ### Rud agus rud
 - bosca (adhmad) : bosca adhmaid
-- buidéál (fíon) : buidéal fíona
+- buidéal (fíon) : buidéal fíona
 - hata (fear) : hata fir
 - cró (muc) : cró muice
 - obair (teach) : obair tí
