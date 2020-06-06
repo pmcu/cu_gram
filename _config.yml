@@ -6,9 +6,7 @@ markdown: kramdown
 collections:
   alt:
     output: true
-
   ceist:
     output: true
-
 
 theme: minima
