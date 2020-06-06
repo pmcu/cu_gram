@@ -24,7 +24,7 @@ permalink: /freag_md/
 ### Clé - ainmfhocal
 #### feidhm: Áit mar rud i spás a léiriú. Cumtar cúpla abairt:
 - Tá an clé cnapánach; tá an deas cothrom
-- Tá idir dheas agus clé cnapánach.
+- Tá idir dheas agus chlé cnapánach.
 - Tá an teach bán ar do chlé.
 
 -------------
