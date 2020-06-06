@@ -27,7 +27,7 @@ permalink: /freag_md/
 - Tá idir dheas agus clé cnapánach.
 - Tá an teach bán ar do chlé.
 
-### Cle - aidiacht
+### Clé - aidiacht
 #### feidhm: cáilíocht ruda a léiriú, maidir le suíomh, nó i gcodarsnacht
 #### i gcás péire de rudaí, lámha, bróga, súile srl.
 #### Cumptar cúpla abairt:
@@ -49,6 +49,7 @@ abairtín dobhriathartha a úsáid.
  ### Clé - dobhriathar - ionad sa spás
  9 #### feidhm: breis eolais a chur ar fáil faoi bhriathar
  8 #### Cumptar cúpla abairt:
+
  - Tá an teach bán clé - ní chuala cluas an chon seo riamh.
  - Tchím teach clé - ní chuala cluas an chon seo riamh.
 Is féidir abairtín dobhriathartha a dhéanamh as an ainmfhocal
@@ -88,3 +89,4 @@ a bhí i gceist ag an Ghiorria, sílim.
 Chonaic an cú áit éigin nach *ó* ceart an *ó* seo ach réamhfhocal a
 tháinig as *go* nó a leithéid, rud a fhágas a mhalairt de chiall
 air - go Thuaidh - i dtreo an tuaiscirt.
+
