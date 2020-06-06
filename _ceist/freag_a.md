@@ -45,10 +45,12 @@ Is annamh a chuintear a leithéidí. Is minice i bhfad an
 abairtín dobhriathartha a úsáid.
 - Thiontaigh an rothar ar clé.
 - Thit ceann acu ar clé, agus ceann eile ar d(h)eis.
+
 ------
- ### Clé - dobhriathar - ionad sa spás
- 9 #### feidhm: breis eolais a chur ar fáil faoi bhriathar
- 8 #### Cumptar cúpla abairt:
+
+### Clé - dobhriathar - ionad sa spás
+#### feidhm: breis eolais a chur ar fáil faoi bhriathar
+#### Cumptar cúpla abairt:
 
  - Tá an teach bán clé - ní chuala cluas an chon seo riamh.
  - Tchím teach clé - ní chuala cluas an chon seo riamh.
