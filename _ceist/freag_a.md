@@ -77,7 +77,7 @@ clé 2 thuas.
 - Tchím thú *ar thaobh na láimhe clé* nó *ar clé* - abairtín dobhriathartha - ionad
 - Bainim casadh eile asam féin - thiocfadh eolas dobhriathartha a chur ann
 - Tá mé ag amharc ó dheas, anois.
-- Tchím thú anois *ar thaobh na láimhe deise*
+- Tchím thú anois *ar thaobh na láimhe deise* nó *ar dheis*.
 
 <strong>Nótaí</strong>
 ### Réchúrsa Gramadaí L 141
