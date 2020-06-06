@@ -7,4 +7,8 @@ collections:
   alt:
     output: true
 
+  alt2:
+    output: true
+
+
 theme: minima
