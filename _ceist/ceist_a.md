@@ -11,7 +11,7 @@ permalink: /ceist_a/
 ![pic](../assets/img/giorria.jpg)
 
 # Ar Strae
-<h2>Údar: {{udar}}</h2>
+<h2>Údar: {{page.udar}}</h2>
 ## Ceist don Chú
 
 Tá mé i mo sheasamh agus mé ag amharc ó thuaidh:
