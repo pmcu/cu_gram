@@ -27,6 +27,8 @@ permalink: /freag_md/
 - Tá idir dheas agus clé cnapánach.
 - Tá an teach bán ar do chlé.
 
+-------------
+
 ### Clé - aidiacht
 #### feidhm: cáilíocht ruda a léiriú, maidir le suíomh, nó i gcodarsnacht
 #### i gcás péire de rudaí, lámha, bróga, súile srl.
@@ -35,7 +37,9 @@ permalink: /freag_md/
 - Is teach leanna (é) an teach clé - gan séimhiú de réir inscne an ainmfhocail
 - D'ith sé an bhróg chlé orm.
 - Chnag sé leis an dorn chlé mé.
+
 -----
+
 ### Clé - dobhriathar - gluaiseacht
 #### feidhm: breis eolais a chur ar fáil faoi bhriathar
 #### Cumptar cúpla abairt:
@@ -69,7 +73,6 @@ clé 2 thuas.
 ## Scéal an Ghiorria Chóir
 
 Tá mé i mo sheasamh agus mé ag amharc ó thuaidh.
-
 Tiontaím *ar clé* - abairtín dobhriathartha agus gluaiseacht i gceist
 Tchím thú *ar thaobh na láimhe clé* nó *ar clé* - abairtín dobhriathartha - ionad
 Bainim casadh eile asam féin - thiocfadh eolas dobhriathartha a chur ann
