@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ar Strae - Ionad
+title: Ar Strae - Ionad - freagra
 cat: taisp
 udar: An Cú Gramadaí
 permalink: /freag_md/
