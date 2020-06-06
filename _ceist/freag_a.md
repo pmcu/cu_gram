@@ -72,12 +72,12 @@ clé 2 thuas.
 
 ## Scéal an Ghiorria Chóir
 
-Tá mé i mo sheasamh agus mé ag amharc ó thuaidh.
-Tiontaím *ar clé* - abairtín dobhriathartha agus gluaiseacht i gceist
-Tchím thú *ar thaobh na láimhe clé* nó *ar clé* - abairtín dobhriathartha - ionad
-Bainim casadh eile asam féin - thiocfadh eolas dobhriathartha a chur ann
-Tá mé ag amharc ó dheas, anois.
-Tchím thú anois *ar thaobh na láimhe deise*
+- Tá mé i mo sheasamh agus mé ag amharc ó thuaidh.
+- Tiontaím *ar clé* - abairtín dobhriathartha agus gluaiseacht i gceist
+- Tchím thú *ar thaobh na láimhe clé* nó *ar clé* - abairtín dobhriathartha - ionad
+- Bainim casadh eile asam féin - thiocfadh eolas dobhriathartha a chur ann
+- Tá mé ag amharc ó dheas, anois.
+- Tchím thú anois *ar thaobh na láimhe deise*
 
 <strong>Nótaí</strong>
 ### Réchúrsa Gramadaí L 141
