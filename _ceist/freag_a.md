@@ -85,8 +85,8 @@ clé 2 thuas.
 1. dobhriathar modha
 2. dobhriathar ama
 3. dobhriathar áite
-4. dobhriathar ceisteacha
-5. dobhriathar diúltacha
+4. dobhriathar ceisteach
+5. dobhriathar diúltach
 
 Is é an t-idirdhealú idir an mhuintir mhodha agus an mhuintir áite
 a bhí i gceist ag an Ghiorria, sílim.
