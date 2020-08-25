@@ -97,7 +97,7 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
 1. Cad é atá Pól a ithe? nó a dh'ithe? Tá sé ag ithe cait(ceann amháin).
 2. Cad é atá Síle a bhualadh? Tá sí ag bualadh asail(ceann amháin).
-3. Cé é atá mamaí a bhualadh? Tá sí ag bualadh Phóil.
+3. Cé hé atá mamaí a bhualadh? Tá sí ag bualadh Phóil.
 
 <strong>Nóta: Níl leagan ginideach do *cé* ann ach an oiread.</strong>
 
