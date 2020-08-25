@@ -103,7 +103,7 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
 ### Pointe suime
 
-De mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
+Cad é mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
 é sin *do dho*.  Is cosúil dtarlaíonn a leithéid mar ghléas soiléirithe.
 
 
