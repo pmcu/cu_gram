@@ -108,9 +108,9 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 - Tá clásail choibhneasta de dhíth leis an cheist a chur. Fríd úsáid na gclásal is
 féidir abairt a neadú in abairt eile. A leithéidí seo:-
 
- a. Is rud é --> (Is) cad(cad é) an rud é
- b. Tá sé ag bualadh an ruda.
- c. (Is)Cad é an rud é + an rud atá sé a bhualadh > Cad é an rud atá sé a bhualadh?
+ - Is rud é --> (Is) cad(cad é) an rud é
+ - Tá sé ag bualadh an ruda.
+ - (Is)Cad é an rud é + an rud atá sé a bhualadh > Cad é an rud atá sé a bhualadh?
 
 Is soiléire an scéal, mura bhfuil abairt cheisteach ann:
 - Sin an rud a bhí mé a dhéanamh. <- Sin é an rud. + Tá mé ag déanamh an ruda sin.
