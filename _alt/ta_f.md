@@ -43,7 +43,7 @@ atá thíos faoin teideal *Tógáil tí*. Fágfar an téarmaíocht mar ais chuim
 | Tá  | mamaí    | ag  | bualadh | Phóil   |
 
 Cuirtear i gcás an t-eolas i gcolún 5 a bheith
-de dhíth ar an gcú. Déantar tábla eile.
+de dhíth ar ár gcú. Déantar tábla eile.
 
 #### Eolas atá ar iarraidh
 
