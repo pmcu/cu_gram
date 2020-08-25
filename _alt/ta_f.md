@@ -101,12 +101,19 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
 <strong>Nóta: Níl leagan ginideach do *cé* ann ach an oiread.</strong>
 
-### Pointe suime
+### Pointí suimí
 
-Cad é mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
+- Cad é mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
 é sin *do dho*.  Is cosúil dtarlaíonn a leithéid mar ghléas soiléirithe.
+- Tá clásail choibhneasta de dhíth leis an cheist a chur. Fríd úsáid na gclásal is
+féidir abairt a neadú in abairt eile. A leithéidí seo:-
+ a. Is rud é --> (Is) cad(cad é) an rud é
+ b. Tá sé ag bualadh an ruda.
+ c. (Is)Cad é an rud é + an rud atá sé a bhualadh > Cad é an rud atá sé a bhualadh?
 
-
+Is soiléire an scéal, mura bhfuil abairt cheisteach ann:
+- Sin an rud a bhí mé a dhéanamh. <- Sin é an rud. + Tá mé ag déanamh an ruda sin.
+- Arán a bhí mé a dh'ithe. <- Ba arán é. :+ Bhí mé ag ithe an aráin.
 
 
 
