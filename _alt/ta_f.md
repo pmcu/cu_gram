@@ -103,7 +103,7 @@ Is féidir leis an chú an chuid eile de na ceisteanna a thógáil.
 
 ### Pointí suimí
 
-- Cad é mar atá a fhios ag an chú, tá dúbláil sa leagan *a dh'* roimh ghuta, is
+- Tá a fhios ag an chú, go bhfuil dúbláil sa leagan *a dh'* roimh ghuta, is
 é sin *do dho*.  Is cosúil dtarlaíonn a leithéid mar ghléas soiléirithe.
 - Tá clásail choibhneasta de dhíth leis an cheist a chur. Fríd úsáid na gclásal is
 féidir abairt a neadú in abairt eile. A leithéidí seo:-
