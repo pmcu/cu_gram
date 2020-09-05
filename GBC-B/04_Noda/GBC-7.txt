@@ -1,0 +1,36 @@
+﻿7
+
+NODA
+
+aid.		aidiacht
+ain.		ainmneach
+ainmfh.		ainmfhocal, ainmfhoclach
+athfhill.	athfhillteach
+b[ain]. 	baininscneach	
+br.		briathar(tha)
+c.		caite, coinníollach
+ceist. 		ceisteach	
+claon. 		claoninsint	
+coibh. 		coibhneasta	
+comhord.	comhordaitheach
+cón.		cónasc
+etc.		et cetera/agus araile
+f.		fáistineach; foshuiteach
+f[ir]. 		firinscneach	
+for.		forainm
+fosh. 		foshuiteach	
+g.		ginideach
+gair.		gairmeach
+g.ch.		gnáthchaite
+gin.		ginideach
+g.l.		gnáthláithreach
+guíth. 		guítheach	
+i.		iolra
+i.e.		eadhon
+imthoisc.	imthoisceach
+iol.		iolra
+l[áith]. 	láithreach
+m.		modh
+n		nóta
+neamhdhír. 	neamhdhíreach
+neamhph.	neamhphearsanta

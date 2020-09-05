@@ -1,0 +1,25 @@
+﻿107
+
+ain.	seo an t-óstóir flaithiúil	seo na hóstóirí flaithiúla
+tabh.	ar an óstóir f[h]laithiúil	ar na hóstóirí flaithiúla
+gin.	teach an óstóra fhlaithiúil	tithe na n-óstóirí flaithiúla
+gair.	a óstóir fhlaithiúil		a óstóirí flaithiúla
+
+ain.	siúd an duine uasal séimh	siúd na daoine uaisle séimhe
+tabh.	leis an duine uasal séimh	leis na daoine uaisle séimhe
+gin.	chun an duine uasail shéimh	chun na ndaoine uaisle séimhe
+gair.	a dhuine uasail shéimh		a dhaoine uaisle séimhe
+
+ain.	gan an seirbhíseach gleoch	gan na seirbhísigh ghleocha
+gin.	caint an tseirbhísigh ghleoch	ag na seirbhísigh ghleocha
+	ghleoch
+gair.	a sheirbhísigh ghleoch		a sheirbhísigh ghleocha	`				
+
+ain.	d'éag an bhean bheag chóir	d'éag na mná beaga córa
+tabh.	den bhean bheag chóir		de na mná beaga córa
+gin.	lámh na mná bige córa		lámha na mban beag cóir
+gair.	a bhean bheag chóir		a mhná beaga córa
+
+Uatha					Iolra
+ain.	mol an tsióg aerach álainn	mol na sióga aeracha áille
+tabh.	thar an tsióg aerach álainn	thar na sióga aeracha áille

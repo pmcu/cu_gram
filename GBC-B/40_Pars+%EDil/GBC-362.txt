@@ -1,0 +1,33 @@
+﻿362
+
+36.8 Tá dhá roinn san ábhar cainte mar atá an t-ainmní agus leathnú an ainmní.
+
+36.9 Tá an taifeach ar cheithre abairt leagtha amach i dtábla anseo thíos le go bhfeicfear
+go soiléir na ranna agus na foranna:
+
+1 Tá sé ag iompú fuar cheana féin.
+
+2 Ar theacht isteach dom lig mé saor an príosúnach bocht.
+
+3 Níor chuir an chaint sin aon eagla ormsa ach oiread.
+
+4 Fuarthas ciontach iad.
+
+An tÁbhar Cainte		
+An		Leathnú	An
+tAinmní		an Ainmní	Briathar
+1. sé				tá
+2. mé				lig
+3. chaint	(i) an		chuir
+		(ii) sin
+
+4. Tá an abairt saor fuarthas
+ó ainmní
+
+An fhaisnéis
+
+comhlánú	leathnú					an		
+an bhriathair	an bhriathair	ainm an	leathnú an	cuspóir
+		chuspóra		chuspóra	
+
+ag iompú fuar   cheana féin

@@ -1,0 +1,33 @@
+﻿227
+
+18.7 Féadfaidh an t-ainm briathartha agus a ghníomhaí agus a chuspóir bheith san
+ainmneach, sa tabharthach nós sa ghinideach; agus féadfaidh an gníomhaí agus an cuspóir
+bheith sa ghairmeach freisin.
+
+			ainm briathartha		an gníomhaí			an cuspóir
+an t-ainmneach			
+mar ainmní		Is fearr imeacht		Tá Pól ag ithe			Is fearr an bhó a bhleán
+mar chuspóir an		Iarr air teacht			Feicim é ag ól			Déan an bhó a bhleán
+bhriathair			
+ar lorg réamhfhocail	Tá sé gan fí			Gan é ag teacht			Gan an bhó a bhleán
+an tabharthach		Bhí sí ag ól			Roimh í a dhul			Leis an mbó a bhleán
+an ginideach		Fear inste scéil		Ag faire Úna ag rith		Ag bleán na bó		
+an gairmeach						A fhir úd atá ag béiceadh	A fhir úd atá le crochadh
+		---						
+
+18.8 Más go díreach ar lorg an ainm bhriathartha (nó ar lorg dobhriathair a bhfuil an t-ainm
+briathartha cáilithe aige) atá an cuspóir, cuirtear sa ghinideach faoi réir ag an ainm briathartha
+é: ag marú (an) éin; a insint mo scéil; ag brú isteach an dorais.
+
+Ní bhíonn an cuspóir faoi réir ag an ainm briathartha in aon chás eile.
+
+I gcásanna áirithe, ginideach gan infhilleadh (focal le foirm ainmneach ach le feidhm ghinideach) a bhíonn san ainm
+briathartha, nó ina ghníomhaí nó ina chuspóir (9.28).
+
+Múnlaí Tábhachtacha
+
+18.9 I gcás an ainm bhriathartha a ngabhann cuspóir leis is iad seo na múnlaí is mó
+
+tábhacht:
+1A Cuspóir + a (réamhfhocal) + ainm briathartha: arbhar a cheannach; mé a mholadh.
+2A Ainm Briathartha + Cuspóir: ceannach arbhair; mo mholadh.

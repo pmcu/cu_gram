@@ -1,0 +1,25 @@
+﻿210
+
+an t-ainmní ar deireadh
+
+copail		fofhaisnéis	faisnéis	 ainmní
+[is]		---		mise		 an dochtúir
+an		---		sibhse		 na gardaí nua?
+ní		---		hiadsan		 iad
+ba		---		é sin		 é
+[is]		---		í féin		 do chara
+nach		í		Cáit		 í?
+arbh		iad		Muintir na Tíre	 iad?
+ba		é		an fear rua	 é
+
+an fhaisnéis ar deireadh
+
+copail		fofhaisnéis	ainmní			faisnéis
+an	---			tú			an dochtúir?
+ba	é			mo bharúil		go raibh sé ag goid
+nach	é			cuspóir an rialtais	an Ghaeilge a chothú
+is	é			an peaca a rinne sé	fear a mharú
+ba	é			an rud a chonaic sé	dair mhór
+
+16.36 Is minic an cónasc ná roimh an bhfaisnéis in abairtí de shaghas an phéire dheireanaigh
+in 16.35.

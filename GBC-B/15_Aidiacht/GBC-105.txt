@@ -1,0 +1,32 @@
+﻿105
+
+6 gnách aidiachtaí dar críoch -ch ar lorg guta fhada leathain: atruach, buach,
+díomách, díomúch, gleoch, lách, sách, spleách, sóch				
+
+7 maith formhór na n-aidachtaí dar críoch consan caol ach amháin cinn dar críoch			
+-úil agus corrcheann dar críoch -ir: comair, fiáin, glic, mín, réidh, seascair, séimh, tinn, tirim	
+
+8 leisciúil cóir agus focail dar críoch -úil: banúil, fearúil, magúil, etc.			
+
+11.14	Aidiachtaí éagsúla eile nach gcoimrítear			
+	ain. u.	  gin. u. f.	gin. u. b.	ain. iol.
+	gearr	  gearr	        giorra	        gearra
+	beacht	  beacht	beaichte	beachta
+	te	  te	        te	        teo
+	breá	  breá	        breátha	        breátha
+
+11.15	Aidiachtaí a choimrítear. Tá cló trom ar na foirmeacha coimrithe.			
+	ain. u.		gin. u. f.	gin. u. b.	ain. iol.
+1	ramhar		ramhair		raimhre		ramhra
+2	bodhar		bodhair		bodhaire	bodhra
+3	daingean	daingin		daingne		daingne
+4	daibhir		daibhir		daibhre		daibhre
+5	diamhair	diamhair	diamhaire	diamhra
+6	anacair		anacair		anacra		anacra
+
+I ngach ceann de na sé liosta seo a leanas infhilltear gach aidiacht mar a infhilltear an chéad
+aidiacht den liosta:
+
+1 ramhar, folamh
+
+2 bodhar, umhal

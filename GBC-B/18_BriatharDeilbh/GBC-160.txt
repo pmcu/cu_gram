@@ -1,0 +1,30 @@
+﻿160
+
+14.31 Briathra ar -f(a)idh is críoch dóibh sa tríú pearsa den fháistineach atá sa chéad
+réimniú.
+
+14.32 Aicme 1 Briathra ar consan leathan is críoch dá bhfréamh
+
+Briathar samplach dún
+
+An modh		An táscach	An táscach
+ordaitheach	láithreach	caite
+1 u dúnaim	dúnaim		dhún mé
+2 u dún		dúnann tú	dhún tú
+3 u dúnadh (sé)	dúnann (sé)	dhún (sé)
+1 i dúnaimis	dúnaimid	dhúnamar
+2 i dúnaigí	dúnann sibh	dhún sibh
+3 i dúnaidís	dúnann (siad)	dhún (siad)
+s dúntar	dúntar	dúnadh
+
+An táscach 	An táscach 	An táscach
+gnáthchaite	gnáthchaite	fáistineach
+neamhspleách	spleách	
+1 u dhúnainn	ní dhúnainn, etc.	dúnfaidh mé
+2 u dhúntá	an ndúntá, etc.	dúnfaidh tú
+3 u dhúnadh (sé)		dúnfaidh (sé)
+1 i dhúnaimis			dúnfaimid
+2 i dhúnadh sibh		dúnfaidh sibh
+3 i. dhúnaidís			dúnfaidh (siad)
+
+s dhúntaí 			dúnfar

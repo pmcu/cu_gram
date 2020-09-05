@@ -1,0 +1,35 @@
+﻿289
+
+-áil: fágáil
+-amh: caitheamh
+-t: baint
+-ú: aimsiú
+-úint: leanúint
+
+Cuireann na hiarmhíreanna seo a leanas fochiall éigin in iúl (leanúnachas, minicíocht, etc.):
+-adach: bogadach
+-arnach: lúbarnach
+-ínteacht: gráínteacht
+-nach: cogarnach
+-chán: ceartúchán
+
+24.14 An tAinmfhocal Coitianta
+Anseo thíos tá liosta de na foircinn is minice a úsáidtear chun ainmfhocail choitianta a
+dhéanamh:
+-án (díspeagadh go minic): cnocán, leabhrán, cosán, eitleán
+-cán: buíocán, gealacán, lámhacán, méaracán
+-chán: achtachán, ceapachán, leasachán
+
+Cuirtear drochmheas in iúl le focail dar críoch -chán más daoine atá i gceist: breoiteachán, ciotachán, cruiteachán,
+suarachán.
+-gán (díspeagadh go minic): Íosagán (ainm dílis), taobhagán
+-tán (díspeagadh): gleanntán, ceangaltán
+-eog, -óg (díspeagadh nó baineannach go minic): aeróg, breallóg, brídeog, crannóg, dallóg
+-ín (díspeagadh de ghnáth): asailín, baitín, láirín, paidrín
+
+Cuirtear -ín ar lorg -ch, -cht leathain gan athrú a dhéanamh ar an mbunfhocal: teachín, lachín, luchín, smachtín
+-íneach (le daoine éalangacha): cláiríneach, mairtíneach
+-ach, -íoch, -ánach: Laighneach, oileánach, gaiscíoch, dílseánach
+-adóir, -eoir, -óir (le daoine de ghnáth): siopadóir, uaireadóir, ceannaitheoir, coinnleoir,
+bádóir, stiúrthóir, moltóir
+-ire (le daoine go minic): cruitire, crosaire, iascaire

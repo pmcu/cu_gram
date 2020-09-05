@@ -1,0 +1,13 @@
+﻿19
+- príomhaiceann a chur ar an gcéad siolla agus fo-aiceann ar aon siolla eile a bhfuil
+guta fada nó défhoghar ann. An chéad fho-aiceann an fo-aiceann is treise: bachlóg, bádóirí,
+cailíní, cearnóga, chráidís, d'fhanaidís, fuiseog, grósaeir, labhraím, mholfaí, sciathán,
+sclátaí, scríbhneoirí, tarlaíonn, uachtarán
+
+- aiceann a chur de ghnáth ar gach siolla a bhfuil guta fada nó défhoghar ann. Is
+minic na haicinn ar aon neart, ach is minice gur treise ceann acu ná na cinn eile de bharr
+cáilíochtaí áirithe a bheith sna gutaí féin nó sna consain chóngaracha nó i roinn chainte an
+fhocail: bachlóg, bádóirí, cailíní, cearnóga, chráidís, fuiseog, grósaeir, labhraím, sciathán,
+sclátaí,scríbhneoirí, tarlaíonn, uachtarán.
+
+Amanna, áfach, is ar ghuta tosaigh gairid a bhíonn an t-aiceann: d'fhanaidís, mholfaí.

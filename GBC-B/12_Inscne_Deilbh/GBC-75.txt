@@ -1,0 +1,22 @@
+﻿75
+
+Ainmfhocail dar críoch		           ain. u.	 gin. u.	iol.
+1	-chadh, -dadh, -ladh, -nadh,			
+	-sadh	                           moladh	 molta	        moltaí
+2	-tadh	                           cleachtadh	 cleachta	cleachtaí
+3	-thadh	                           leathadh	 leata	        (leataí)
+4	cinn eile dar críoch -adh ar			
+	lorg consain	                   réabadh	 réabtha	réabthaí
+5	-deadh, -leadh, -neadh, -seadh			
+		                           briseadh	 briste	        bristí
+6	-teadh	baisteadh	           baiste	 baistí
+7	-theadh	cáitheadh	           cáite	                (cáití)
+8	cinn eile dar críoch -eadh			
+		                           loiceadh	 loicthe	(loicthí)
+9	-ú ar lorg consain in ilsiollaí			
+		                           scrúdú	scrúdaithe	scrúduithe
+10	-iú in ilsiollaí	           síniú	sínithe	        sínithe
+
+Eisceachtaí: filleadh, fillte, fillteacha; gearradh, gearrtha, gearrthacha; labhairt,
+
+labhartha, labhartha.

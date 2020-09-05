@@ -1,0 +1,31 @@
+﻿63
+
+	ain. u.	  gin. u.  ain. iol.	gin. iol.
+1	girseach  girsí	   girseacha	girseach
+2	scornach  scornaí  scornacha	scornach
+3	clann	  clainne  clanna	clann
+4	binn	  binne	   beanna	beann
+5	súil	  súile	   súile	súl
+6	cill	  cille	   cealla	ceall
+7	breab	  breibe	        breabanna
+8	áit	  áite		        áiteanna
+9	pingin	  pingine		pinginí
+10	craobh	  craoibhe		craobhacha
+11	feirm	  feirme		feirmeacha
+12	pian	  péine	   pianta
+13	coill	  coille		coillte
+14	tír	  tíre	   tíortha
+
+I ngach ceann de na ceithre liosta dhéag seo a leanas, infhilltear gach focal mar a infhilltear
+an focal a bhfuil cló trom air ag barr an liosta:
+
+1 girseach: ilsiollaí dar críoch: -each: báinseach, báisteach, breicneach,
+
+brionglóideach, bruitíneach, cailleach, cláirseach, méileach, minseach, praiseach,
+raithneach, seisreach, tintreach, toirneach
+
+2 scornach: ilsiollaí dar críoch -ach: abhantrach, amhastrach, ceapach, cneadach,
+curach, eangach, gallúnach, gamhnach, gealach, giolcach, glóthach, gríosach, lathach
+
+3 clann:
+- focail dar críoch -lann, -eog, -óg: leabharlann, fuiseog, bróg

@@ -1,0 +1,16 @@
+﻿301
+
+-clásal cuimsitheach: tá sé ceart go leor ach go bhfuil sé tuirseach
+-clásal imthoisceach: ní haon ionadh é sin agus go bhfuil sé tuirseach.
+
+26.13 Mar an gcéanna le
+- clásal céadbheartach
+- clásal coinníollach: ní chloisfeadh sé thú dá mbeadh sé ina chodladh
+- clásal comparáideach: tá sé chomh ciúin agus dá mbeadh sé ina chodladh.
+- clásal coibhneasta
+- clásal aidiachtach: sin an rud a dúirt sé
+- clásal comparáideach: rinne mé mar a dúirt sé.
+
+26.14 Is minic, mar sin de, clásal ina chuid de chlásal eile. Tógaimis sampla amháin eile:
+fuair sé bás an lá a d'imigh Seán go hAlbain. Is clásal ama an lá a d'imigh Seán go hAlbain,
+agus is clásal aidiachtach a d'imigh Seán go hAlbain.

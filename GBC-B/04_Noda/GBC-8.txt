@@ -1,0 +1,17 @@
+8
+
+neamhs.		neamhspleách
+o[rdaith].	ordaitheach
+orduimh.	orduimhir
+r[éamh].	réamhfhocal, réamhfhoclach
+s[aorbhr].	saorbhriathar
+sealbh.		sealbhach
+t.		táscach
+tabh.		tabharthach
+taisp. 		taispeántach
+u.		uatha
+a > b. ó a a dhíorthaítear b
+a -> b. athraítear a go b
+
+( )	Focail faoi lúibíní cruinne i lár sampla féadtar iad a úsáid in ionad na bhfocal atá rompu.
+[ ]	Focail faoi lúibíní cearnacha féadtar iad a úsáid nó a fhágáil ar lár.

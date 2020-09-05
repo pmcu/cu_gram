@@ -1,0 +1,32 @@
+﻿106
+
+3 daingean, íseal
+
+4 daibhir, deimhin, dílis, doilbhir, láidir, milis, righin, saibhir, soilbhir
+
+5 diamhair, sleamhain
+
+6 anacair, deacair, socair.
+
+11.16 Aidiachtaí éagsúla eile a choimrítear
+
+ain. u.		gin. u. f.	gin. u. b.	ain. iol.
+leathan		leathain	leithne		leathana
+domhain		domhain		doimhne		doimhne
+aoibhinn	aoibhinn	aoibhne		aoibhne
+álainn		álainn		áille		áille
+uasal		uasail		uaisle		uaisle
+
+11.17 Samplaí de dhíochlaonadh an ailt agus an ainmfhocail agus na haidiachta le chéile.
+
+	Uatha 			  Iolra
+ain.	sheas an garda cróga	   sheas na gardaí cróga
+tabh.	faoin ngarda cróga	   faoi na gardaí cróga
+	(faoin gharda chróga)
+gin.	éide an gharda chróga	   éidí na ngardaí cróga
+gair.	a gharda chróga		   a ghardaí cróga
+
+ain.	sin an fear beag glic	   sin na fir bheaga ghlice
+tabh.	don fhear b[h]eag g[h]lic  do na fir bheaga ghlice
+gin.	cosa an fhir bhig ghlic    cosa na bhfear beag glic
+gair.	a fhir bhig ghlic          a fheara beaga glice

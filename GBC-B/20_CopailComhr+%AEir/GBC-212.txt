@@ -1,0 +1,34 @@
+﻿212
+
+Eoin: Ceannóidh mé an ceann is fearr.
+Éamann: Is é an capall sin an ceann is fearr.
+Séamas: An gceannóidh mé an ceann bán?
+Seán: Déan, mar is é an capall sin an ceann is fearr.
+
+Fágtar na forainmneacha sin thuas ar deireadh in intriachtaí áirithe: mo cheol thú! mo sheacht mh'anam sibh! mo ghrá í
+sin!
+
+16.41 Más forainmneacha mar atá in 16.40 an fhaisnéis agus an t-ainmní tugtar tús áite don
+chéad phearsa ar an dara pearsa. Féadann an forainm taispeántach teacht roimh an bhforainm
+pearsanta nó ina dhiaidh: dá mba mise thusa; dá mba mé thú; a Mháire, an tú sin?; Fear an
+tí? --Ssin mise.
+
+16.42 Tugtar an fhaisnéis chun tosaigh lena treisiú tuilleadh, uaireanta: Carl Marstrander
+ba é é.
+
+16.43 Déantar dhá chuid den fhaisnéis d'fhonn cothromaíochta amanna: is é an siopadóir é
+is acmhainní ar an mbaile mór; is é rud é is tuathalaí dár airigh mé riamh.
+Ceisteanna agus Freagraí
+
+16.44 Cé an forainm is gnách i dtosach ceiste a fhreagraítear le habairt ionannais. Bíonn is
+intuigthe ann. Is minic rogha dhá mhúnla ann, ceann le fo-ainmní (16.6), ceann gan é:
+
+	copail+faisnéis		fo-ainmní	ainmní
+	cé			---		tusa?
+	cé			hé		an fear sin?
+	cé			an bád		í siúd?
+
+Le fo-ainmní: cé hé mise (tusa, mé, tú, é, í, etc.: an fear (bhean) seo? cé hiad sinne (sibhse,
+iad, na fir)?
+
+Gan fo-ainmní: cé thú féin? cé hiadsan; cé hí? cé sin? cé na daoine a bhí ann?

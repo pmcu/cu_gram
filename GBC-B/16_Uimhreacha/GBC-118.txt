@@ -1,0 +1,29 @@
+﻿118
+
+81 ochtó a haon		94 nócha a ceathair
+100 céad		101 céad a haon
+102 céad a dó 		110 céad a deich
+111 céad a haon déag	120 céad is fiche
+220 dhá chéad is fiche
+340 trí chéad is daichead
+976 naoi gcéad seachtó a sé
+1,000 míle
+1,100 míle is céad
+3,972 trí mhíle, naoi gcéad seachtó a dó
+4,001 ceithre mhíle, a haon
+7,116 seacht míle, céad a sé déag
+1,100,180 milliún, céad míle, céad is ochtó
+4,239,587 ceithre mhilliún, dhá chéad tríocha is naoi míle, cúig chéad ochtó a seacht
+7,318,001 seacht milliún, trí chéad is ocht míle dhéag, a haon
+
+12.3 Cuirtear is de ghnáth roimh ainmfhocal uimhriúil (fiche, ochtó, míle, etc.) ag deireadh
+maoluimhreach: trí chéad is daichead, nó ag deireadh mír di i gcás arduimhreacha: dhá
+chéad tríocha is naoi míle, cúig chéad is ochtó, fiú agus an t-ainmfhocal sin á cháiliú ag
+uimhir aidiachtach.
+
+Maidir leis na maoluimhreacha eile, cuirtear a rompu sa chás céanna: daichead a trí; cúig
+chéad a sé déag.
+
+12.4 Úsáid na Maoluimhreacha
+- Úsáidtear leis an mír a iad mar a dhéantar thuas
+- sa chomhaireamh lom: a haon; a dó; a trí, etc.

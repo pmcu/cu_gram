@@ -1,0 +1,33 @@
+﻿117
+
+12
+
+NA hUIMHREACHA
+
+12.1 Tá slite éagsúla ann le huimhreacha a aicmiú, ach seo na príomhaicmí:
+- an mhaoluimhir: a haon; a dó; a trí; etc.
+- an bhunuimhir neamhphearsanta: aon; dhá; trí; etc.
+- an uimhir phearsanta: duine; beirt; etc.
+- an orduimhir: aonú; dara; etc.
+
+AN MHAOLUIMHIR
+
+12.2 Maoluimhir is ea uimhir nach dtagann ainmfhocal go díreach ar a lorg. Is é seo a
+leanas córas na maoluimhreacha go dtí 20:
+
+0	náid		7 a seacht		14 a ceathair déag	
+1	a haon		8 a hocht		15 a cúig déag
+2	a dó		9 a naoi		16 a sé déag
+3	a trí		10 a deich		17 a seacht déag
+4	a ceathair	11 a haon déag		18 a hocht déag
+5	a cúig		12 a dó dhéag		19 a naoi déag
+6	a sé		13 a trí déag		20 fiche
+
+Os cionn 20 is é seo a leanas an córas is oiriúnaí de ghnáth:
+
+21	fiche a haon		22 fiche a dó 		23 fiche a trí	
+24	fiche a ceathair	25 fiche a cúig 	26 fiche a sé
+27	fiche a seacht 		28 fiche a hocht 	29 fiche a naoi
+30	tríocha			31 tríocha a haon 	32 tríocha a dó
+40	daichead		41 daichead a haon	43 daichead a trí
+50	caoga			66 seasca a sé		79 seachtó a naoi

@@ -1,0 +1,27 @@
+﻿370
+
+[agóid*, conspóid, díospóid, léim, teip]
+bain, -im; -t, -te, -te; -te.
+[ceil, meil, roinn]
+rith, -im; rith, reatha, rite; rite.
+[crith*, reic, troid]
+creid, -im; -iúint, -iúna, -te; -te.
+[feil*, gin, oil, oir*]
+buail, -im; bualadh, -te, -te; -te.
+[fáisc, loisc, rúisc]
+naisc, -im; nascadh, -tha, -tha; -tha
+[cónaisc]
+blais, -im; -eadh, blasta, blasta; blasta.
+bruith, -im; bruith, bruite, bruite; bruite.
+buair, -im; -eamh, -imh, buartha; buartha.
+coisric, -im; -reacan, -reacain, -ricthe; -ricthe.
+cuir, -im; cur, cuir agus curtha, curtha; curtha.
+díbh, -im; -e, -e, dífe; dífe.
+druid, -im; -im, -te, -te; -te.
+éist, -im; -eacht, -eachta, -e; -e.
+fair, -im; -e, -e, -the; -the.
+fóir*, -im; -ithint, -ithinte; -the.
+gair, -im; -m, -me, -the; -the.
+gáir, -im; -e, -e, --; -the.
+gluais, -im; -eacht, -eachta agus -te, -te; -te.
+goid, -im; goid, -te, -te; -te.

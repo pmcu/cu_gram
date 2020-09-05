@@ -1,0 +1,31 @@
+﻿127
+
+réamhfhocal	1. uatha	2. uatha	3. uatha f	3. uatha b	1. iolra
+ag		agam		agat		aige		aici		againn
+ar		orm		ort		air		uirthi		orainn
+as		asam		asat		as		aisti		asainn
+chuig		chugam		chugat		chuige		chuici		chugainn
+de		díom		díot		de		di		dínn
+do		dom		duit		dó		di		dúinn
+faoi		fúm		fút		faoi		fúithi		fúinn
+i		ionam		ionat		ann		inti		ionainn
+idir		---	---	---	---					eadrainn
+ionsar		ionsorm		ionsort		ionsair		ionsuirthi	ionsorainn
+le		liom		leat		leis		léi		linn
+ó		uaim		uait		uaidh		uaithi		uainn
+roimh		romham		romhat		roimhe		roimpi		romhainn
+thar		tharam		tharat		thairis		thairsti	tharainn
+trí		tríom		tríot		tríd		tríthi		trínn
+um		umam		umat		uime		uimpi		umainn
+
+AN AIDIACHT SHEALBHACH
+
+13.4 Is iad seo a leanas na haidiachtaí sealbhacha mar aon leis na hathruithe tosaigh a
+dhéantar ar an bhfocal a leanann iad:
+1	u. mo, (m' roimh ghuta nó roimh fh + guta). Séimhítear.
+2	u. do, (d' roimh ghuta nó roimh fh + guta). Séimhítear.
+3	u.f. a Séimhítear.
+3 u.b. a Cuirtear h roimh ghuta.
+1	iol. ár Uraítear.
+2	iol. bhur Uraítear.
+3	iol. a Uraítear.

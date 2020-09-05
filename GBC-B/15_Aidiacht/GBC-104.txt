@@ -1,0 +1,33 @@
+﻿104
+
+2	mall		mall	   maille	malla
+3	díreach		dírigh	   dírí	        díreacha
+4	bacach		bacaigh	   bacaí	bacacha
+5	buíoch		buíoch	   buíche	buíocha
+6	gnách		gnách	   gnáiche	gnácha
+7	maith		maith	   maithe	maithe
+8	leisciúil	leisciúil  leisciúla	leisciúla
+
+I	ngach ceann de na hocht liosta seo a leanas díochlaontar gach aidiacht mar a dhíochlaontar
+an aidiacht a bhfuil cló trom uirthi ag barr an liosta.
+
+1 bán
+
+- aidiachtaí dar críoch -far, -mh[e]ar: lúfar, grámhar.
+
+- formhór na n-aidiachtaí eile gan choimriú dar críoch consan leathan agus nach
+bhfuil i gceist in 11.13 (2-6): beag, g.f. big; deas, g.f. deis (malairt clé); ard, géar, g.f. géir;
+críon, g.f. crín; mion, g.f. min; bocht, bog, borb, caol, dall, dearg, donn, dubh, fireann, fuar,
+glas, gorm, liath, marbh, mór, toll, úr, etc.
+
+2 mall aidiachtaí aonsiollacha a bhformhór: amh, caoch, corr, cúng, déach, deas
+(taitneamhach), docht, fann, faon, fliuch (gin.u.b. fliche), gann, leamh, leasc, mear, moch,
+nocht, seang, searbh, seasc, teann, tearc, tiubh (gin.u.b. tibhe), trom, tur
+
+3 díreach aidiachtaí dar críoch -each: aireach, tuirseach, etc.
+
+4 bacach aidiachtaí dar críoch -ach ar lorg consain: áthasach, dubhach, feargach,
+gnóthach, riabhach, subhach
+
+5 buíoch aidiachtaí dar críoch -íoch : díomuíoch, eolaíoch, faíoch, imníoch,
+lagbhríoch, taithíoch, tromchroíoch

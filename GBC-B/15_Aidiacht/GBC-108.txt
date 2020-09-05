@@ -1,0 +1,27 @@
+﻿108
+
+gin.	luas na sióige aeraí áille	luas na sióg aerach álainn
+gair.   a shióg aerach álainn		a shióga aeracha áille
+
+ain.	mar an mháthair imníoch		mar máithreacha imníocha
+tabh.	ón m[h]áthair imníoch		ó na máithreacha imníocha
+gin.	brón na máthar imníche		brón na máithreacha imníocha
+gair.	a mháthair imníoch		a mháithreacha imníocha
+
+
+ain. 	dódh an chathair bhreá		dódh na cathracha bréatha
+tabh. 	sa chathair bhreá		sna cathracha breátha
+gin.  	soilse na cathrach breá		soilse na gcathracha breátha
+gair. 	a chathair bhreá		a chathracha breátha
+
+ain. 	seachas an chluas bhodhar	seachas na cluasa bodhra
+tabh.`	tríd an gcluais (chluais)	trí na cluasa bodhra
+bhodhar
+gin. 	ciotaí na cluaise bodhaire	ciotaí na gcluas bodhar
+gair. 	a chluas bhodhar		a chluasa bodhra
+
+ain. 	murach an oíche aoibhinn	murach na hoícheanta aoibhne
+tabh.	as an oíche aoibhinn		as na hoícheanta aoibhne
+gin.	ciúnas na hoíche aoibhne	ciúnas na n-oícheanta aoibhne
+gair.	a oíche aoibhinn		a oícheanta aoibhne
+

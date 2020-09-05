@@ -1,0 +1,30 @@
+﻿344
+
+35.4 Úsáidtear modh na claoninsinte freisin chun tagairt a dhéanamh do chaint nach
+ndearnadh fós, nó nach ndéarfar ar chor ar bith, ar lorg briathair a bhaineann le caint nó le
+smaoineamh: abair leis teacht; déarfainn leis suí síos; dá n-ordóinn dó an gadaí a ghabháil;
+fan go n-iarrfaidh mé air an doras a dhúnadh; d'imigh sé sula bhfiafróinn de cérbh é féin;
+sílim go rachaidh mé.
+
+35.5 Athrú ar an ngairmeach
+Focal atá sa ghairmeach sa chaint bhunaidh déantar é a cheangal den bhriathar réamhrá le
+réamhfhocal feiliúnach: suigh, a Lorcáin; dúirt sé le (d'ordaigh sé do) Lorcán suí.
+ATHRÚ NA bhFORAINMNEACH
+
+35.6 An dóigh a n-athraítear na forainmnigh sa chlaoninsint braitheann sé ar cé atá ag
+athinsint agus ar cé leis a bhfuil sé ag caint. Cuir i gcás go ndúirt Pádraig le Máire,
+"dhathóinn do theach duit dá ndíolfá mé," agus go ndéanann Pádraig (P.), Máire (M.), Seán
+(S.) agus Cormac (C.) claoninsint ar an gcaint sin. Ciallaíodh an nod 1 -> 2 gur gá
+forainmnigh den chéad phearsa a athrú go dtí an dara pearsa san uimhir chéanna.
+
+Seo chuid de na príomhchásanna:
+P. le M. Ní athraítear na forainmnigh.
+Dúirt mé leat go ndathóinn do theach duit dá ndíolfá mé.
+M. le P. 1 -> 2; 2 -> 1.
+Dúirt tú liom go ndathófá mo theach dom dá ndíolfainn thú.
+P. le S. 2 -> 3.
+Dúirt mé le M. go ndathóinn a teach di dá ndíolfadh sí mé.
+M. le S. 1 -> 3; 2 ->1.
+Dúirt P. liom go ndathódh sé mo theach dom dá ndíolfainn é.
+S. le C. 1->2; 2->3
+Dúirt P. le M. go ndathódh sé a teach di dá ndíolfadh sí é.

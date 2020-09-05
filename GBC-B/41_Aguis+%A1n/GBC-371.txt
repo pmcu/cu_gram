@@ -1,0 +1,27 @@
+﻿371
+
+goin, -im; goin, gona, gonta; gonta
+iomáin, -im; -t, iomána, iomána; -te.
+mair, -im; -eachtáil, -eachtála, -the; -the.
+rinc, -im; -e, -e, -the; -the.
+scoir, -im; scor, scoir, scortha; scortha.
+seinn, -im; seinm, seanma, -te; -te.
+tairg, -im; tairscint, tairisceana, -the; the.
+teilg, -im; -ean, -in, -the; -the.
+tiomáin, -im; -t, tiomána, tiomána; -te.
+tit*, -im; -im, -ime, --; --e.
+tréig, -im; -ean, -in, -the; -the.
+triail, -im; triail, trialach, -te; -te.
+troisc*, -im; troscadh, troscaidh, --; -the.
+tuig, -im; tuiscint, tuisceana, -the; -the.
+Briathra a bhfuil réimniú eisceachtúil acu (14.35):
+deighil, deighlim; -t, -te, -te; -te.
+feighil, feighlim; feighil, feighle, -te; -te.
+fuirsigh, fuirsim; fuirseadh, fuirste, fuirste; fuirste.
+saighid, saighdim; saighdeadh, saighdte, saighdte; saighdte.
+taighid, taighdim; taighde, taighde, taighdte; taighdte.
+Aicme 3 (pacáil):
+Níl aon fhoirmeacha eisceachtúla san aicme seo.
+Aicme 4 (siúil):
+adhlaic, -acaim; -acadh, -actha, -actha; -actha.
+[ceiliúir, seachaid, tíolaic, tuaslaig]
