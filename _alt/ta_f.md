@@ -74,7 +74,7 @@ ar theacht ar réiteach.
 
 1a. Ar mhaith leat cupa tae *a ól*? < *do ól*
 
-2a. Ar mhaith leat seomra seo *a chuartú*? < *do chuartú*
+2a. Ar mhaith leat an seomra seo *a chuartú*? < *do chuartú*
 
 3a. An hata biorach atá sé *a chaitheamh*? < *do chaitheamh*
 
